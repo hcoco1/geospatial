@@ -17,7 +17,7 @@ This portfolio is organised around 13 core GIS competencies. The following is cu
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-database: __01 — Data sourcing & inspection__
+- :fontawesome-solid-database: [__01 — Data sourcing & inspection__](Competencies/01%20—%20Data%20sourcing%20&%20inspection/)
 
 </div>
 

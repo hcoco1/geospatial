@@ -21,6 +21,14 @@ nav = [
     { "Competency overview" = "Home/Competency overview/index.md" }
   ] },
 
+  { "Competencies" = [
+    { "01 — Data sourcing & inspection" = "Competencies/01 — Data sourcing & inspection/index.md" }
+  ] },
+
+  { "Technical Evidence" = [
+    { "01 — Data sourcing & inspection" = "Technical Evidence/01 — Data sourcing & inspection/index.md" }
+  ] },
+
 ]
 
 # extra_css = ["stylesheets/extra.css"]

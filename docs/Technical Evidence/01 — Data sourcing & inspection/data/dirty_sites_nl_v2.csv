@@ -1,0 +1,201 @@
+id,address,category,quantity,area,price_eur,date_collected,notes,longitude,latitude
+1,Industrieweg 64,hospital,n/a,1860.2 m2,10395.0,3.4.2017,,5.136565,52.081734
+2,Dorpsstraat 273,SCHOOL,20,2823.3 m2,2509.59,04-09-2017,,5.104237,52.069874
+3,Parklaan 40,school,22,3660.8 m2,19613.41,25.6.2018,Grond in slechte staat,5.102527,52.089734
+4,Stationsplein 87,Retail,4,3669.2 m2,11769.95,23-07-2021,NÃ¤he Bahnhof,5.069401,52.069809
+5,Molenweg 78,retail,18,47605.5 ft2,17347.7,2022-11-12,Ã‚Â good condition,5.077351,52.072554
+6,Dorpsstraat 54,shool,33,4753.6 m2,14925.8,28.11.2024,NÃ¤he Bahnhof,5.081314,52.062984
+7,Dorpsstraat 239,hospital,24,3088.0 m2,4555.08,12.10.2021,NÃ¤he Bahnhof,5.101395,52.071181
+8,Stationsplein 115,SCHOOL,35,49244.8 ft2,6312.75,05/28/2024,Grond in slechte staat,5.141984,52.113072
+9,Parklaan 179,school,34,2489.3 m2,19797.27,12/07/2025,NÃ¤he Bahnhof,5.120512,52.077019
+10,  Parklaan 171  ,retail,42,1752.8 m2,16775.65,2023-04-23,Near station,5.110208,52.125744
+11,Parklaan 53,,42,8327.0 ft2,19615.97,,Ã‚Â good condition,5.079221,52.119913
+12,  Industrieweg 262  ,park ,35,2124.1 m2,18245.33,2022-09-19,NÃ¤he Bahnhof,5.166406,52.061984
+13,Kerkstraat 227,School,36,26245.6 ft2,17722.94,2.2.2024,,5.15391,52.086188
+14,Dorpsstraat 38,warehouse,17,49705.5 ft2,4450.48,13-08-2021,Renovated in 2019,5.073167,52.10729
+15,STATIONSPLEIN 48,HOSPITAL,26,4430.4 m2,13522.74,17.7.2021,,5.155473,52.080748
+16,Industrieweg 293,Hospital,7,466.1 m2,18165.02,27.7.2020,Grond in slechte staat,5.153231,52.084025
+17,Molenweg 57,park,5,1359.0 m2,725.15,09-10-2018,NÃ¤he Bahnhof,5.096799,52.0744
+18,Dorpsstraat 260,HOSPITAL,3,126.0 m2,11245.46,15.2.2022,NÃ¤he Bahnhof,5.174843,52.106538
+19,Kerkstraat 236,retail,,33863.2 ft2,8899.44,2020-09-13,Renovated in 2019,5.194268,52.12781
+20,Dorpsstraat 12,shool,6,2399.5 m2,-4419.11,9.2.2018,Renovated in 2019,5.129378,52.110043
+21,Industrieweg 292,warehouse ,40,3233.9 m2,16788.15,2024-12-24,Near station,5.183924,52.104632
+22,KERKSTRAAT 243,School,29,2814.7 m2,12711.42,01-08-2017,Grond in slechte staat,5.163466,52.068459
+23,Kerkstraat 249,,3,3104.0 m2,2010.7,,Near station,5.123442,52.10671
+24,Molenweg 39,Retail,6,4684.5 m2,9449.93,2022-05-15,,5.103933,52.098269
+25,  Kerkstraat 170  ,hospital,32,2000.7 m2,19024.21,03/24/2022,Ã‚Â good condition,5.18896,52.107042
+26,Dorpsstraat 262,Hospital,24,49845.5 ft2,17157.98,2018-05-22,Ã‚Â good condition,5.171794,52.100472
+27,Stationsplein 134,,49,7921.2 ft2,9968.71,08/06/2022,Ã‚Â good condition,5.109155,52.063387
+28,Industrieweg 104,school ,49,2277.3 m2,4251.94,06/03/2019,Ã‚Â good condition,5.161876,52.0668
+29,  Kerkstraat 66  ,parc,41,42646.6 ft2,2305.66,08/21/2022,Ã‚Â good condition,5.123474,52.055851
+30,MOLENWEG 120,warehouse,10,802.7,2623.36,,Near station,5.069195,52.070144
+31,  Industrieweg 127  ,park ,15,3962.9 m2,10980.79,11.11.2019,Near station,5.053268,52.089865
+32,Molenweg 160,RETAIL,3,3494.3 m2,-7565.24,10-12-2024,Ã‚Â good condition,5.164071,52.073595
+33,Dorpsstraat 161,retail,4,4746.4 m2,8172.47,05-07-2016,NÃ¤he Bahnhof,5.077827,52.124871
+34,  Stationsplein 222  , park,7,64.2 m2,7353.6,04/25/2022,NÃ¤he Bahnhof,5.187926,52.065442
+35,Industrieweg 23,winkel,25,222.5 m2,18441.5,06/20/2021,Grond in slechte staat,5.094611,52.107726
+36,Stationsplein 164,PARK,50,1963.2 m2,8883.79,2020-01-06,,5.079597,52.110231
+37,Dorpsstraat 236,park,28,4423.2,5665.38,2023-12-16,Near station,5.166081,52.110765
+38,Molenweg 52,hospitaal,16,969.4 m2,5986.4,2020-07-03,Renovated in 2019,,
+39,  Stationsplein 4  ,school,several,1202.8 m2,12209.62,2024-06-03,,5.055618,52.077201
+17,Kerkstraat 203,park,,1669.9 m2,4110.33,26.8.2024,,5.074553,52.105632
+41,Dorpsstraat 81,hospital,several,2099.7 m2,15449.92,2022-12-13,Ã‚Â good condition,5.104709,52.111844
+42,  Molenweg 155  ,park,40,4639.8 m2,3847.87,6.2.2017,Ã‚Â good condition,5.141147,52.100909
+43,Molenweg 127,warehouse,40,22089.7 ft2,16669.16,13.9.2018,NÃ¤he Bahnhof,5.134351,52.110597
+21,Dorpsstraat 235, park,27,1575.6 m2,8089.64,6.1.2016,Ã‚Â good condition,5.069268,52.084448
+45,Parklaan 57,,21,3899.3 m2,1558.17,26-03-2016,Ã‚Â good condition,5.171649,52.113598
+46,Kerkstraat 102,shool,40,15190.0 ft2,3299.66,2020-10-07,Grond in slechte staat,5.184312,52.063499
+47,  Stationsplein 296  ,,29,2798.1 m2,17709.43,07/21/2021,Renovated in 2019,5.076513,52.109488
+34,Industrieweg 182,hospitaal,19,3099.5 m2,10497.22,08-10-2016,,5.137539,52.097127
+49,Industrieweg 180,warehouse,unknown,3552.0 m2,1741.54,09-07-2020,,5.160028,52.06988
+50,Molenweg 261,Park,50,569.3 m2,13307.6,17.10.2024,Renovated in 2019,5.158646,52.088234
+51,Industrieweg 224,retail,29,918.2,5597.82,24-12-2020,Grond in slechte staat,5.189286,52.121534
+52,Industrieweg 4,warehouse ,11,3743.4 m2,17663.21,28.11.2024,Near station,5.182714,52.113136
+53,Kerkstraat 187,WAREHOUSE,n/a,3128.7 m2,19559.46,05-12-2016,,5.059892,52.119423
+54,  Dorpsstraat 134  ,RETAIL,n/a,4134.0 m2,6103.62,11/25/2019,Grond in slechte staat,5.163978,52.122827
+55,Kerkstraat 269,warehouse ,-,204.7 m2,2416.84,04/19/2017,Renovated in 2019,,
+56,Parklaan 288,retail,33,1339.8,6032.73,16-03-2017,Grond in slechte staat,5.189276,52.121347
+57,Stationsplein 268,,35,2530.9 m2,17737.58,18-10-2025,Near station,5.0985,52.087053
+58,Stationsplein 83,hospital,16,2563.1 m2,15217.33,03/24/2019,Grond in slechte staat,5.15931,52.058145
+59,Dorpsstraat 114,PARK,28,1405.4 m2,18272.35,15.1.2016,Ã‚Â good condition,,
+60,Parklaan 64,RETAIL,48,35021.4 ft2,13523.97,2025-12-21,Near station,5.184212,52.069392
+61,Industrieweg 112,school ,-,2615.3 m2,17523.36,,NÃ¤he Bahnhof,5.065163,52.095965
+62,  Dorpsstraat 32  ,retail ,14,4951.9 m2,10518.95,06/20/2016,Ã‚Â good condition,5.151233,52.096414
+63,Molenweg 181,hospital,26,2337.5 m2,18623.67,2024-08-07,Ã‚Â good condition,5.094151,52.093861
+64,Industrieweg 44,RETAIL,28,3410.2 m2,16206.01,21.5.2021,Grond in slechte staat,5.058559,52.116232
+65,Molenweg 107,shool,n/a,1088.3 m2,6213.35,28.4.2018,NÃ¤he Bahnhof,5.153204,52.128174
+66,Kerkstraat 248,warehouse,34,4726.4 ft2,13588.96,14.4.2018,Ã‚Â good condition,5.074692,52.097968
+67,PARKLAAN 170,school,30,1906.0 m2,19231.96,21-11-2016,Ã‚Â good condition,5.184634,52.052712
+68,Stationsplein 260,shool,14,1456.5 m2,5405.65,08/12/2022,Ã‚Â good condition,5.099634,52.075368
+69,Industrieweg 193,warehouse,36,4433.7 m2,-1469.14,07-08-2025,Near station,5.181448,52.05664
+62,Kerkstraat 221,SCHOOL,42,1254.0 ft2,3204.57,,Renovated in 2019,5.128323,52.11598
+71,Molenweg 78,retail,,1966.4 m2,18785.53,14-09-2017,Renovated in 2019,5.068251,52.127308
+72,STATIONSPLEIN 27,Park,48,977.7 m2,15593.45,24.2.2020,Renovated in 2019,5.152996,52.099458
+73,Dorpsstraat 245,hospital,4,1615.6,14691.45,2021-02-26,Grond in slechte staat,5.135022,52.073391
+74,Stationsplein 217,Warehouse,28,4883.1 m2,8053.46,08-08-2020,Renovated in 2019,5.0711,52.121249
+75,Industrieweg 5,school ,25,11217.1 ft2,18668.59,2023-07-22,Renovated in 2019,5.103266,52.05501
+76,  Molenweg 127  ,warehouse,38,1049.3 m2,2297.67,19.10.2021,Grond in slechte staat,5.10575,52.087075
+77,INDUSTRIEWEG 68,hospital,,216.2,17388.61,09-05-2022,NÃ¤he Bahnhof,5.10673,52.052202
+51,Molenweg 190,Retail,46,4798.5 m2,11507.29,2022-09-22,NÃ¤he Bahnhof,5.191257,52.125293
+79,Kerkstraat 242,warehouse,-,326.1 m2,15221.54,10.10.2025,Renovated in 2019,5.106947,52.085311
+80,Stationsplein 166,PARK,5,50301.9 ft2,17829.8,04-07-2016,Near station,5.099797,52.108885
+81,Dorpsstraat 59,retail,27,1271.4 m2,11634.31,08/09/2017,Near station,5.150242,52.066893
+82,Industrieweg 175,HOSPITAL,16,4629.1 m2,6143.86,24-05-2018,,5.104015,52.053244
+83,Parklaan 99,hospital,46,919.4 m2,16664.93,2018-05-25,Renovated in 2019,5.127934,52.117285
+84,Parklaan 191,warehouse,32,497.1 m2,15378.12,,Grond in slechte staat,5.116865,52.09125
+85,Kerkstraat 115,school,25,31244.4 ft2,6185.06,,Grond in slechte staat,5.172573,52.052406
+86,Molenweg 278,school ,7,3599.6 m2,2899.46,09-02-2017,NÃ¤he Bahnhof,5.119308,52.081729
+87,Industrieweg 28,park,34,229.2,1513.33,06/27/2022,Near station,5.087393,52.083771
+88,Industrieweg 140,,2,1166.1 m2,8242.51,01/02/2016,Renovated in 2019,5.087587,52.091624
+89,Stationsplein 125,park ,33,4512.0 m2,12009.84,17.3.2020,Grond in slechte staat,5.141493,52.095614
+90,Molenweg 166,shool,31,4103.2 m2,7006.5,07/19/2016,Grond in slechte staat,5.082421,52.054553
+75,Molenweg 142,park,29,19406.2 ft2,10658.12,07/05/2021,Near station,5.188306,52.129648
+92,Parklaan 235,,32,2017.6,3417.85,20.10.2017,Grond in slechte staat,5.133303,52.08076
+93,  Kerkstraat 14  ,retail ,37,1916.1 m2,16521.94,2021-04-20,Ã‚Â good condition,5.130467,52.074993
+94,Dorpsstraat 250,winkel,23,2292.7 m2,1831.25,2024-07-17,,5.129521,52.115271
+95,Molenweg 212,Hospital,19,37295.8 ft2,19809.85,2020-09-06,,5.13548,52.100505
+96,Industrieweg 264,Retail,,16760.5 ft2,11930.91,09/16/2025,Ã‚Â good condition,5.071803,52.091474
+97,Stationsplein 51,PARK,28,4042.7 m2,743.58,04/23/2021,Renovated in 2019,5.117476,52.080853
+98,Dorpsstraat 35,retail,16,1153.4 m2,-11946.45,28.8.2020,Near station,5.112024,52.081888
+99,Kerkstraat 217,park,12,945.1 ft2,8222.52,28.7.2021,NÃ¤he Bahnhof,5.120052,52.077558
+100,Parklaan 208,hospital,6,1021.7 m2,15855.5,04/26/2018,NÃ¤he Bahnhof,5.121393,52.066356
+101,Dorpsstraat 15,school,24,2696.6 m2,10448.78,09/22/2017,Grond in slechte staat,,
+102,Parklaan 205,school,5,2831.9 m2,10257.13,02/10/2019,Ã‚Â good condition,5.182413,52.118902
+103,INDUSTRIEWEG 113,hospitaal,27,175.1 m2,9520.34,02/21/2018,Renovated in 2019,5.114605,52.110557
+104,Industrieweg 25,park,15,2872.3 m2,5466.83,01/12/2017,Renovated in 2019,5.081521,52.123159
+105,Molenweg 220, park,34,495.2,8767.53,24-12-2023,NÃ¤he Bahnhof,5.078394,52.126184
+106,Molenweg 4,WAREHOUSE,16,4819.9 m2,7270.97,5.3.2023,Near station,5.094906,52.120775
+107,Kerkstraat 31,Warehouse,43,816.2,16869.98,05/23/2016,Renovated in 2019,5.117203,52.059039
+108,Dorpsstraat 251,retail,,2369.1,9967.73,24-10-2020,Renovated in 2019,5.063645,52.072878
+109,Stationsplein 195,,,2006.6 m2,7673.81,03/22/2017,Grond in slechte staat,5.070451,52.123577
+110,  Molenweg 84  ,Hospital,46,2046.0 m2,4720.62,10-10-2025,Ã‚Â good condition,5.055991,52.08516
+111,Industrieweg 179, hospital,46,2135.0 m2,9054.52,,,5.119071,52.127704
+112,Industrieweg 15,school,4,3627.7 m2,13339.5,08/12/2018,Near station,5.062781,52.102839
+113,Stationsplein 251,warehouse,17,615.6 m2,17854.87,2017-05-28,,5.066953,52.091055
+114,Dorpsstraat 279,park,33,2775.3 m2,15259.56,24.9.2017,,5.063967,52.079869
+115,Stationsplein 87,,30,1534.7 m2,8806.52,28-04-2025,Near station,5.173845,52.059818
+116,Dorpsstraat 11,warehouse,several,543.2 m2,16158.91,04/22/2020,Renovated in 2019,5.123207,52.0559
+117,DORPSSTRAAT 257,school,10,2962.2 m2,19946.73,01/15/2016,Renovated in 2019,5.143063,52.101575
+118,Parklaan 240,retail,40,2609.1 m2,10801.06,2019-01-20,Grond in slechte staat,5.100326,52.088675
+119,Dorpsstraat 293,School,25,1403.0 m2,5610.32,05-12-2016,Grond in slechte staat,5.085706,52.113736
+120,Molenweg 179,park ,23,4370.7 m2,7021.34,08/26/2024,Near station,5.116828,52.095498
+121,Dorpsstraat 183,school,37,2778.8,7139.11,10/03/2018,Near station,5.060162,52.088761
+122,KERKSTRAAT 67,hospital,16,3536.8 m2,8291.68,2017-09-28,,5.0705,52.065054
+123,Stationsplein 254,park,48,184.1 m2,12390.84,28-07-2016,Ã‚Â good condition,5.053861,52.075351
+124,Industrieweg 295,hospitaal,unknown,8139.7 ft2,2252.43,2025-11-18,Grond in slechte staat,5.121634,52.052531
+125,Kerkstraat 15,warehouse,18,702.7 m2,9777.39,12.3.2019,,5.133287,52.064546
+126,  Stationsplein 14  ,hospital,50,852.3 m2,15673.05,16.4.2021,Renovated in 2019,5.187048,52.103937
+127,Stationsplein 256,school,41,4308.7 m2,904.92,12.4.2021,NÃ¤he Bahnhof,5.190083,52.111536
+128,Dorpsstraat 94,school,16,849.9 m2,12153.05,26-04-2021,Grond in slechte staat,5.170753,52.062154
+129,  Parklaan 8  ,school,11,2349.2 m2,8576.93,2016-06-13,NÃ¤he Bahnhof,5.154764,52.10828
+121,Kerkstraat 179,Hospital,28,62.7 m2,11038.55,4.9.2021,NÃ¤he Bahnhof,5.090946,52.064178
+131,Stationsplein 277,park,several,1372.7 m2,1307.45,12/11/2022,Ã‚Â good condition,5.182252,52.1143
+132,Stationsplein 227,parc,25,53340.5 ft2,13436.82,2.12.2016,,,
+133,Stationsplein 135,winkel,25,1808.3 m2,19530.67,2017-06-27,Near station,5.138424,52.095656
+134,Dorpsstraat 63,park,24,1231.3 m2,16526.76,11/27/2016,Ã‚Â good condition,5.103497,52.114257
+135,Molenweg 190,retail,8,2274.1 m2,16066.49,22.3.2021,Grond in slechte staat,,
+136,Stationsplein 23,WAREHOUSE,17,13423.7 ft2,2280.91,03/07/2022,Renovated in 2019,5.094287,52.082634
+137,  Parklaan 14  , hospital,46,2922.1 m2,4461.02,15.7.2022,Ã‚Â good condition,5.115418,52.129594
+138,Kerkstraat 293, park,,1200.5 m2,11062.47,11-07-2023,Renovated in 2019,5.082345,52.086342
+139,INDUSTRIEWEG 141,school,-,4225.9 m2,8435.52,11-06-2019,Ã‚Â good condition,5.178832,52.094455
+140,Stationsplein 103,retail,28,4290.4 m2,4439.14,2023-08-12,Near station,5.09714,52.092646
+141,  Parklaan 64  ,,13,38398.1 ft2,12045.8,15-04-2019,Renovated in 2019,5.124572,52.051135
+142,DORPSSTRAAT 218,shool,50,4593.4 m2,2466.82,07/02/2019,Near station,5.074022,52.085705
+143,Stationsplein 115,warehouse,17,17821.8 ft2,3462.01,13.1.2021,NÃ¤he Bahnhof,5.159236,52.084389
+144,INDUSTRIEWEG 299,park ,34,2655.4 m2,7285.0,04/03/2023,NÃ¤he Bahnhof,5.165166,52.111206
+145,Stationsplein 36,,23,1012.2 m2,6350.47,04/16/2021,Near station,5.168198,52.097648
+146,  DORPSSTRAAT 156  ,parc,37,4194.1 m2,14688.67,22-02-2021,NÃ¤he Bahnhof,5.124419,52.092879
+147,Dorpsstraat 293,Retail,26,2798.7,18213.84,08-02-2016,Renovated in 2019,5.073049,52.071134
+107,Kerkstraat 111,warehouse ,14,1207.9 m2,15788.25,02/08/2025,Grond in slechte staat,5.171583,52.086943
+149,Kerkstraat 2, park,unknown,782.9 m2,3759.14,04/07/2019,Ã‚Â good condition,5.0995,52.055523
+150,Parklaan 239,Park,46,4858.2 m2,16165.21,03/16/2020,,5.107874,52.101181
+151,Dorpsstraat 176,,49,4199.9 m2,4361.26,16.10.2016,Renovated in 2019,5.15079,52.113344
+152,DORPSSTRAAT 17,,,6431.4 ft2,8663.82,11-09-2019,Grond in slechte staat,5.183433,52.082596
+153,Industrieweg 97,School,22,4790.6 m2,4871.91,05/13/2023,Ã‚Â good condition,5.050053,52.064028
+154,Stationsplein 228,retail,36,39676.8 ft2,13489.13,09-11-2022,Grond in slechte staat,5.144789,52.080069
+155,  Stationsplein 248  ,park,4,47170.6 ft2,2821.56,,Grond in slechte staat,5.138132,52.096141
+107,Parklaan 185,school,19,3875.7 m2,11190.08,22.11.2022,NÃ¤he Bahnhof,5.124364,52.053866
+157,Dorpsstraat 102,School,20,4542.6 m2,19443.84,03/23/2020,Ã‚Â good condition,5.089032,52.081518
+158,Stationsplein 201,RETAIL,27,34484.3 ft2,6637.75,16.11.2024,,5.177712,52.059688
+159,Molenweg 61,parc,16,47740.0 ft2,2379.88,12/27/2017,Near station,5.109997,52.089985
+160,Industrieweg 141,school,19,711.1 m2,1786.02,28.10.2019,NÃ¤he Bahnhof,5.150733,52.110329
+161,  Molenweg 159  ,hospital,19,699.8 m2,14223.65,10/03/2025,Renovated in 2019,5.154915,52.055774
+162,Stationsplein 170, hospital,4,4887.5 m2,12115.57,2023-02-15,,5.081347,52.117152
+163,Kerkstraat 191,warehouse,18,2148.4 m2,12785.2,13.7.2024,Grond in slechte staat,5.121682,52.060699
+164,Parklaan 152,warehouse ,49,1011.3 m2,10566.08,12/23/2019,Near station,5.157927,52.055018
+165,Kerkstraat 233,park,36,1809.1 m2,12828.45,12/02/2018,NÃ¤he Bahnhof,5.182639,52.088882
+166,Parklaan 197,hospital,7,2665.1 m2,8083.68,7.12.2020,Ã‚Â good condition,5.051931,52.067122
+167,  Dorpsstraat 54  ,Retail,n/a,4299.7 m2,11411.89,2019-01-07,NÃ¤he Bahnhof,5.135809,52.123638
+168,  Dorpsstraat 196  ,retail,11,2031.1 m2,14417.88,2025-08-23,NÃ¤he Bahnhof,,
+169,  Molenweg 240  ,school,n/a,4544.6 m2,518.44,8.11.2016,Renovated in 2019,5.18235,52.057726
+170,Parklaan 280,warehouse ,1,407.1 m2,13140.98,20-10-2024,Near station,,
+171,Kerkstraat 46,parc,42,3691.0 m2,19674.47,17-06-2017,Grond in slechte staat,5.140964,52.128286
+172,Parklaan 16,Park,34,1957.6,18513.95,25-12-2017,Ã‚Â good condition,5.058222,52.099498
+173,Kerkstraat 212,hospital,21,1942.3 m2,3677.23,10/16/2021,,5.188136,52.076297
+174,Dorpsstraat 266,school,21,2153.8 m2,1753.0,2016-09-07,Renovated in 2019,5.082709,52.110406
+175,Parklaan 73,Hospital,44,873.8,6043.97,02/01/2019,Near station,5.061691,52.108368
+176,Parklaan 49,PARK,33,3453.3 m2,15503.98,2022-07-10,Grond in slechte staat,5.054605,52.116301
+177,Kerkstraat 30,school,,10658.4 ft2,3581.69,22-05-2018,,5.059308,52.073671
+178,Kerkstraat 115,school,24,3950.5 m2,7641.49,8.3.2020,Ã‚Â good condition,5.086131,52.12143
+179,  Dorpsstraat 226  , park,,2219.8 m2,9469.09,2023-08-04,Grond in slechte staat,5.120375,52.124927
+180,Stationsplein 240, park,25,594.7,10734.39,28-06-2019,Near station,5.17101,52.10048
+181,Parklaan 72,hospital,31,1323.7 m2,12737.19,2016-08-21,Grond in slechte staat,5.178598,52.079418
+182,DORPSSTRAAT 13,,29,1124.0 m2,9060.8,2025-06-24,Ã‚Â good condition,5.121558,52.090932
+183,Parklaan 12,retail,31,1049.4,9403.28,2022-01-11,NÃ¤he Bahnhof,5.050024,52.098603
+184,Industrieweg 232,winkel,27,788.3 m2,10683.02,2.3.2019,,5.179033,52.126555
+185,Dorpsstraat 272,winkel,,1483.7 m2,19354.42,17-07-2020,,5.078903,52.056082
+186,Parklaan 93,warehouse ,17,3403.1 m2,14954.97,22.6.2016,NÃ¤he Bahnhof,5.063343,52.127677
+187,Industrieweg 216,retail,24,1931.4 m2,7615.69,2016-02-09,Ã‚Â good condition,5.136544,52.078454
+188,STATIONSPLEIN 131,winkel,26,1880.0,15452.17,2025-04-21,Ã‚Â good condition,5.181269,52.097104
+189,Kerkstraat 46,park,,43078.2 ft2,2172.72,,Grond in slechte staat,5.10234,52.073342
+190,Parklaan 217,Hospital,4,3498.3 m2,15938.92,16-03-2019,NÃ¤he Bahnhof,5.060823,52.087796
+191,Stationsplein 257,school ,6,4133.0 m2,8991700.0,19.4.2017,Near station,5.084318,52.051881
+192,  Parklaan 157  ,school,14,4931.9,18022.06,15.6.2020,Renovated in 2019,5.098755,52.068908
+193,Parklaan 263,SCHOOL,24,3444.6 m2,6560.0,20.7.2022,Ã‚Â good condition,5.11276,52.106413
+194,PARKLAAN 175,hospital,18,7627.3 ft2,18896.44,10/22/2016,Ã‚Â good condition,5.157381,52.108879
+181,Parklaan 198,School,27,887.1 m2,15416.76,04-04-2023,,5.163814,52.081456
+196,Parklaan 175,school,33,1727.3 m2,5475.57,10/05/2021,Renovated in 2019,5.179459,52.095991
+69,Parklaan 27,Warehouse,18,4750.6 m2,12547.68,2022-01-08,NÃ¤he Bahnhof,5.087983,52.102475
+198,Dorpsstraat 237,hospitaal,unknown,45714.3 ft2,3212.22,22.9.2016,NÃ¤he Bahnhof,5.104135,52.055121
+199,Stationsplein 160,,32,3718.5 m2,9510.33,13.5.2025,Renovated in 2019,5.199666,52.121681
+200,Molenweg 269,RETAIL,43,3494.7 m2,18329.38,14.1.2018,Near station,5.083349,52.109585

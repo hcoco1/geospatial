@@ -24,7 +24,7 @@ The overview shows the current state of the portfolio. A competency is marked as
 
 ## Demonstrated competencies
 
-### 01 — Data sourcing & inspection
+### [01 — Data sourcing & inspection](../../Competencies/01%20—%20Data%20sourcing%20&%20inspection/)
 
 This competency covers the ability to work with new spatial datasets, inspect their structure and content, and identify relevant data-quality or structural issues.
 
