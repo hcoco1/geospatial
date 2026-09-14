@@ -9,7 +9,7 @@ The overview shows the current state of the portfolio. A competency is marked as
 | #  | Competency                 | Status           |
 | -- | -------------------------- | ---------------- |
 | 01 | Data sourcing & inspection | **Demonstrated** |
-| 02 | Data cleaning              | Pending   |
+| 02 | Data cleaning              | **Demonstrated**  |
 | 03 | Projections & datums       | Pending   |
 | 04 | Digitizing                 | Pending   |
 | 05 | Topology                   | Pending          |
@@ -25,14 +25,15 @@ The overview shows the current state of the portfolio. A competency is marked as
 ## Demonstrated competencies
 
 ### [01 — Data sourcing & inspection](../../Competencies/01%20—%20Data%20sourcing%20&%20inspection/)
+### [02 — Data cleaning](../../Competencies/02 — Data cleaning/index.md)
 
 This competency covers the ability to work with new spatial datasets, inspect their structure and content, and identify relevant data-quality or structural issues.
 
 ## Remaining competencies
 
-The following competencies are part of the portfolio framework but have not yet been demonstrated in the published evidence:
+The following competencies are part of the portfolio framework but haven't yet been demonstrated in the published evidence:
 
-* **02 — Data cleaning**
+
 * **03 — Projections & datums**
 * **04 — Digitizing**
 * **05 — Topology**

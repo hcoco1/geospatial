@@ -8,15 +8,15 @@ It shows:
 
 > **What I know → what I can do → how I demonstrated it → how I verified it → what the evidence supports.**
 
-The portfolio is organised around 13 core GIS competencies. Each competency covers a practical area of GIS work and explains the capability shown by the available evidence.
+The portfolio is organised around 13 core GIS competencies. Each competency covers a practical area of GIS work and explains what the available evidence shows I can do.
 
 ## Why an evidence-based portfolio
 
-A list of software, courses, or completed exercises does not, by itself, show what I can do.
+A list of software, courses, or completed exercises doesn't, by itself, show what I can do.
 
-For this reason, the portfolio separates the professional-facing competency pages from the detailed technical evidence.
+That's why the portfolio separates the professional-facing competency pages from the detailed technical evidence.
 
-The competency pages explain the capability demonstrated. The technical evidence provides the supporting material, such as:
+The competency pages explain the capability I've demonstrated. The technical evidence backs that up with supporting material, such as:
 
 * GIS workflows
 * commands and queries
@@ -27,20 +27,20 @@ The competency pages explain the capability demonstrated. The technical evidence
 * supporting HTML
 * technical explanations
 
-This lets the reader see both the professional capability and the evidence behind it.
+This way, the reader can see both the professional capability and the evidence behind it.
 
 ## How the evidence is evaluated
 
-The portfolio does not treat every activity as proof of professional competence.
+The portfolio doesn't treat every activity as proof of professional competence.
 
-The evidence is used to distinguish between:
+I use the evidence to tell apart:
 
 * **demonstrated hands-on capability**;
 * **knowledge demonstrated through theory**;
 * **partially demonstrated capability**;
 * **capability not yet demonstrated**.
 
-Limitations, incomplete work, errors, or gaps in the evidence are stated clearly, not hidden.
+I state limitations, incomplete work, errors, or gaps in the evidence clearly, instead of hiding them.
 
 The goal is to keep the claims in the portfolio matched to the evidence available.
 
@@ -50,7 +50,7 @@ The portfolio is developed and published step by step.
 
 A competency is added to the public portfolio once its supporting work is complete and reviewed. This means the published portfolio reflects the capabilities demonstrated at that stage of development.
 
-The 13-competency framework stays visible even while some competencies are still pending. This lets the portfolio grow over time without changing its overall structure.
+The 13-competency framework stays visible even while some competencies are still pending. That way, the portfolio can grow over time without changing its overall structure.
 
 ## Portfolio structure
 
@@ -68,16 +68,16 @@ This separation keeps the main portfolio focused on professional capability, whi
 
 ## Evidence boundaries
 
-This portfolio does not claim that every GIS or software technology I have studied or used elsewhere has been demonstrated here.
+This portfolio doesn't claim that I've demonstrated every GIS or software technology I've studied or used elsewhere.
 
 Claims about practical capability are based only on the evidence included in this portfolio.
 
-My previous professional experience and broader technical background give context, but they are not treated as evidence for a competency unless shown directly in the work.
+My previous professional experience and broader technical background give context, but they aren't treated as evidence for a competency unless shown directly in the work.
 
 ## Intended use
 
 !!! warning ""
-    This portfolio is intended to give recruiters and other professional readers a clear way to assess my current GIS capabilities and the evidence behind them.
+    This portfolio is meant to give recruiters and other professional readers a clear way to assess my current GIS capabilities and the evidence behind them.
 
-It is a working professional record and will grow as more competencies are completed and verified.
+It's a working professional record and will grow as more competencies are completed and verified.
 

@@ -22,11 +22,13 @@ nav = [
   ] },
 
   { "Competencies" = [
-    { "01 — Data sourcing & inspection" = "Competencies/01 — Data sourcing & inspection/index.md" }
+    { "01 — Data sourcing & inspection" = "Competencies/01 — Data sourcing & inspection/index.md" },
+    { "02 — Data cleaning" = "Competencies/02 — Data cleaning/index.md" }
   ] },
 
   { "Technical Evidence" = [
-    { "01 — Data sourcing & inspection" = "Technical Evidence/01 — Data sourcing & inspection/index.md" }
+    { "01 — Data sourcing & inspection" = "Technical Evidence/01 — Data sourcing & inspection/index.md" },
+    { "02 — Data cleaning" = "Technical Evidence/02 — Data cleaning/index.md" }
   ] },
 
 ]
