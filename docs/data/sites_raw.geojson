@@ -1,0 +1,3957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136565,
+          52.081734
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "address": "Industrieweg 64",
+        "category": "hospital",
+        "quantity": "n/a",
+        "area": "1860.2 m2",
+        "price_eur": "10395.0",
+        "date_collected": "3.4.2017",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.104237,
+          52.069874
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "address": "Dorpsstraat 273",
+        "category": "SCHOOL",
+        "quantity": "20",
+        "area": "2823.3 m2",
+        "price_eur": "2509.59",
+        "date_collected": "04-09-2017",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.102527,
+          52.089734
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "address": "Parklaan 40",
+        "category": "school",
+        "quantity": "22",
+        "area": "3660.8 m2",
+        "price_eur": "19613.41",
+        "date_collected": "25.6.2018",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.069401,
+          52.069809
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "address": "Stationsplein 87",
+        "category": "Retail",
+        "quantity": "4",
+        "area": "3669.2 m2",
+        "price_eur": "11769.95",
+        "date_collected": "23-07-2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.077351,
+          52.072554
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "address": "Molenweg 78",
+        "category": "retail",
+        "quantity": "18",
+        "area": "47605.5 ft2",
+        "price_eur": "17347.7",
+        "date_collected": "2022-11-12",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081314,
+          52.062984
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "address": "Dorpsstraat 54",
+        "category": "shool",
+        "quantity": "33",
+        "area": "4753.6 m2",
+        "price_eur": "14925.8",
+        "date_collected": "28.11.2024",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.101395,
+          52.071181
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "address": "Dorpsstraat 239",
+        "category": "hospital",
+        "quantity": "24",
+        "area": "3088.0 m2",
+        "price_eur": "4555.08",
+        "date_collected": "12.10.2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.141984,
+          52.113072
+        ]
+      },
+      "properties": {
+        "id": "8",
+        "address": "Stationsplein 115",
+        "category": "SCHOOL",
+        "quantity": "35",
+        "area": "49244.8 ft2",
+        "price_eur": "6312.75",
+        "date_collected": "05/28/2024",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.120512,
+          52.077019
+        ]
+      },
+      "properties": {
+        "id": "9",
+        "address": "Parklaan 179",
+        "category": "school",
+        "quantity": "34",
+        "area": "2489.3 m2",
+        "price_eur": "19797.27",
+        "date_collected": "12/07/2025",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.110208,
+          52.125744
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "address": "  Parklaan 171  ",
+        "category": "retail",
+        "quantity": "42",
+        "area": "1752.8 m2",
+        "price_eur": "16775.65",
+        "date_collected": "2023-04-23",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.079221,
+          52.119913
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "address": "Parklaan 53",
+        "category": "",
+        "quantity": "42",
+        "area": "8327.0 ft2",
+        "price_eur": "19615.97",
+        "date_collected": "",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.166406,
+          52.061984
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "address": "  Industrieweg 262  ",
+        "category": "park ",
+        "quantity": "35",
+        "area": "2124.1 m2",
+        "price_eur": "18245.33",
+        "date_collected": "2022-09-19",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15391,
+          52.086188
+        ]
+      },
+      "properties": {
+        "id": "13",
+        "address": "Kerkstraat 227",
+        "category": "School",
+        "quantity": "36",
+        "area": "26245.6 ft2",
+        "price_eur": "17722.94",
+        "date_collected": "2.2.2024",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.073167,
+          52.10729
+        ]
+      },
+      "properties": {
+        "id": "14",
+        "address": "Dorpsstraat 38",
+        "category": "warehouse",
+        "quantity": "17",
+        "area": "49705.5 ft2",
+        "price_eur": "4450.48",
+        "date_collected": "13-08-2021",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.155473,
+          52.080748
+        ]
+      },
+      "properties": {
+        "id": "15",
+        "address": "STATIONSPLEIN 48",
+        "category": "HOSPITAL",
+        "quantity": "26",
+        "area": "4430.4 m2",
+        "price_eur": "13522.74",
+        "date_collected": "17.7.2021",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.153231,
+          52.084025
+        ]
+      },
+      "properties": {
+        "id": "16",
+        "address": "Industrieweg 293",
+        "category": "Hospital",
+        "quantity": "7",
+        "area": "466.1 m2",
+        "price_eur": "18165.02",
+        "date_collected": "27.7.2020",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.096799,
+          52.0744
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "address": "Molenweg 57",
+        "category": "park",
+        "quantity": "5",
+        "area": "1359.0 m2",
+        "price_eur": "725.15",
+        "date_collected": "09-10-2018",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.174843,
+          52.106538
+        ]
+      },
+      "properties": {
+        "id": "18",
+        "address": "Dorpsstraat 260",
+        "category": "HOSPITAL",
+        "quantity": "3",
+        "area": "126.0 m2",
+        "price_eur": "11245.46",
+        "date_collected": "15.2.2022",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.194268,
+          52.12781
+        ]
+      },
+      "properties": {
+        "id": "19",
+        "address": "Kerkstraat 236",
+        "category": "retail",
+        "quantity": "",
+        "area": "33863.2 ft2",
+        "price_eur": "8899.44",
+        "date_collected": "2020-09-13",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.129378,
+          52.110043
+        ]
+      },
+      "properties": {
+        "id": "20",
+        "address": "Dorpsstraat 12",
+        "category": "shool",
+        "quantity": "6",
+        "area": "2399.5 m2",
+        "price_eur": "-4419.11",
+        "date_collected": "9.2.2018",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.183924,
+          52.104632
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "address": "Industrieweg 292",
+        "category": "warehouse ",
+        "quantity": "40",
+        "area": "3233.9 m2",
+        "price_eur": "16788.15",
+        "date_collected": "2024-12-24",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.163466,
+          52.068459
+        ]
+      },
+      "properties": {
+        "id": "22",
+        "address": "KERKSTRAAT 243",
+        "category": "School",
+        "quantity": "29",
+        "area": "2814.7 m2",
+        "price_eur": "12711.42",
+        "date_collected": "01-08-2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.123442,
+          52.10671
+        ]
+      },
+      "properties": {
+        "id": "23",
+        "address": "Kerkstraat 249",
+        "category": "",
+        "quantity": "3",
+        "area": "3104.0 m2",
+        "price_eur": "2010.7",
+        "date_collected": "",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.103933,
+          52.098269
+        ]
+      },
+      "properties": {
+        "id": "24",
+        "address": "Molenweg 39",
+        "category": "Retail",
+        "quantity": "6",
+        "area": "4684.5 m2",
+        "price_eur": "9449.93",
+        "date_collected": "2022-05-15",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18896,
+          52.107042
+        ]
+      },
+      "properties": {
+        "id": "25",
+        "address": "  Kerkstraat 170  ",
+        "category": "hospital",
+        "quantity": "32",
+        "area": "2000.7 m2",
+        "price_eur": "19024.21",
+        "date_collected": "03/24/2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.171794,
+          52.100472
+        ]
+      },
+      "properties": {
+        "id": "26",
+        "address": "Dorpsstraat 262",
+        "category": "Hospital",
+        "quantity": "24",
+        "area": "49845.5 ft2",
+        "price_eur": "17157.98",
+        "date_collected": "2018-05-22",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.109155,
+          52.063387
+        ]
+      },
+      "properties": {
+        "id": "27",
+        "address": "Stationsplein 134",
+        "category": "",
+        "quantity": "49",
+        "area": "7921.2 ft2",
+        "price_eur": "9968.71",
+        "date_collected": "08/06/2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.161876,
+          52.0668
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "address": "Industrieweg 104",
+        "category": "school ",
+        "quantity": "49",
+        "area": "2277.3 m2",
+        "price_eur": "4251.94",
+        "date_collected": "06/03/2019",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.123474,
+          52.055851
+        ]
+      },
+      "properties": {
+        "id": "29",
+        "address": "  Kerkstraat 66  ",
+        "category": "parc",
+        "quantity": "41",
+        "area": "42646.6 ft2",
+        "price_eur": "2305.66",
+        "date_collected": "08/21/2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.069195,
+          52.070144
+        ]
+      },
+      "properties": {
+        "id": "30",
+        "address": "MOLENWEG 120",
+        "category": "warehouse",
+        "quantity": "10",
+        "area": "802.7",
+        "price_eur": "2623.36",
+        "date_collected": "",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.053268,
+          52.089865
+        ]
+      },
+      "properties": {
+        "id": "31",
+        "address": "  Industrieweg 127  ",
+        "category": "park ",
+        "quantity": "15",
+        "area": "3962.9 m2",
+        "price_eur": "10980.79",
+        "date_collected": "11.11.2019",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.164071,
+          52.073595
+        ]
+      },
+      "properties": {
+        "id": "32",
+        "address": "Molenweg 160",
+        "category": "RETAIL",
+        "quantity": "3",
+        "area": "3494.3 m2",
+        "price_eur": "-7565.24",
+        "date_collected": "10-12-2024",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.077827,
+          52.124871
+        ]
+      },
+      "properties": {
+        "id": "33",
+        "address": "Dorpsstraat 161",
+        "category": "retail",
+        "quantity": "4",
+        "area": "4746.4 m2",
+        "price_eur": "8172.47",
+        "date_collected": "05-07-2016",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.187926,
+          52.065442
+        ]
+      },
+      "properties": {
+        "id": "34",
+        "address": "  Stationsplein 222  ",
+        "category": " park",
+        "quantity": "7",
+        "area": "64.2 m2",
+        "price_eur": "7353.6",
+        "date_collected": "04/25/2022",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.094611,
+          52.107726
+        ]
+      },
+      "properties": {
+        "id": "35",
+        "address": "Industrieweg 23",
+        "category": "winkel",
+        "quantity": "25",
+        "area": "222.5 m2",
+        "price_eur": "18441.5",
+        "date_collected": "06/20/2021",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.079597,
+          52.110231
+        ]
+      },
+      "properties": {
+        "id": "36",
+        "address": "Stationsplein 164",
+        "category": "PARK",
+        "quantity": "50",
+        "area": "1963.2 m2",
+        "price_eur": "8883.79",
+        "date_collected": "2020-01-06",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.166081,
+          52.110765
+        ]
+      },
+      "properties": {
+        "id": "37",
+        "address": "Dorpsstraat 236",
+        "category": "park",
+        "quantity": "28",
+        "area": "4423.2",
+        "price_eur": "5665.38",
+        "date_collected": "2023-12-16",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "38",
+        "address": "Molenweg 52",
+        "category": "hospitaal",
+        "quantity": "16",
+        "area": "969.4 m2",
+        "price_eur": "5986.4",
+        "date_collected": "2020-07-03",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.055618,
+          52.077201
+        ]
+      },
+      "properties": {
+        "id": "39",
+        "address": "  Stationsplein 4  ",
+        "category": "school",
+        "quantity": "several",
+        "area": "1202.8 m2",
+        "price_eur": "12209.62",
+        "date_collected": "2024-06-03",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074553,
+          52.105632
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "address": "Kerkstraat 203",
+        "category": "park",
+        "quantity": "",
+        "area": "1669.9 m2",
+        "price_eur": "4110.33",
+        "date_collected": "26.8.2024",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.104709,
+          52.111844
+        ]
+      },
+      "properties": {
+        "id": "41",
+        "address": "Dorpsstraat 81",
+        "category": "hospital",
+        "quantity": "several",
+        "area": "2099.7 m2",
+        "price_eur": "15449.92",
+        "date_collected": "2022-12-13",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.141147,
+          52.100909
+        ]
+      },
+      "properties": {
+        "id": "42",
+        "address": "  Molenweg 155  ",
+        "category": "park",
+        "quantity": "40",
+        "area": "4639.8 m2",
+        "price_eur": "3847.87",
+        "date_collected": "6.2.2017",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.134351,
+          52.110597
+        ]
+      },
+      "properties": {
+        "id": "43",
+        "address": "Molenweg 127",
+        "category": "warehouse",
+        "quantity": "40",
+        "area": "22089.7 ft2",
+        "price_eur": "16669.16",
+        "date_collected": "13.9.2018",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.069268,
+          52.084448
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "address": "Dorpsstraat 235",
+        "category": " park",
+        "quantity": "27",
+        "area": "1575.6 m2",
+        "price_eur": "8089.64",
+        "date_collected": "6.1.2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.171649,
+          52.113598
+        ]
+      },
+      "properties": {
+        "id": "45",
+        "address": "Parklaan 57",
+        "category": "",
+        "quantity": "21",
+        "area": "3899.3 m2",
+        "price_eur": "1558.17",
+        "date_collected": "26-03-2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.184312,
+          52.063499
+        ]
+      },
+      "properties": {
+        "id": "46",
+        "address": "Kerkstraat 102",
+        "category": "shool",
+        "quantity": "40",
+        "area": "15190.0 ft2",
+        "price_eur": "3299.66",
+        "date_collected": "2020-10-07",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.076513,
+          52.109488
+        ]
+      },
+      "properties": {
+        "id": "47",
+        "address": "  Stationsplein 296  ",
+        "category": "",
+        "quantity": "29",
+        "area": "2798.1 m2",
+        "price_eur": "17709.43",
+        "date_collected": "07/21/2021",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.137539,
+          52.097127
+        ]
+      },
+      "properties": {
+        "id": "34",
+        "address": "Industrieweg 182",
+        "category": "hospitaal",
+        "quantity": "19",
+        "area": "3099.5 m2",
+        "price_eur": "10497.22",
+        "date_collected": "08-10-2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.160028,
+          52.06988
+        ]
+      },
+      "properties": {
+        "id": "49",
+        "address": "Industrieweg 180",
+        "category": "warehouse",
+        "quantity": "unknown",
+        "area": "3552.0 m2",
+        "price_eur": "1741.54",
+        "date_collected": "09-07-2020",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.158646,
+          52.088234
+        ]
+      },
+      "properties": {
+        "id": "50",
+        "address": "Molenweg 261",
+        "category": "Park",
+        "quantity": "50",
+        "area": "569.3 m2",
+        "price_eur": "13307.6",
+        "date_collected": "17.10.2024",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.189286,
+          52.121534
+        ]
+      },
+      "properties": {
+        "id": "51",
+        "address": "Industrieweg 224",
+        "category": "retail",
+        "quantity": "29",
+        "area": "918.2",
+        "price_eur": "5597.82",
+        "date_collected": "24-12-2020",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182714,
+          52.113136
+        ]
+      },
+      "properties": {
+        "id": "52",
+        "address": "Industrieweg 4",
+        "category": "warehouse ",
+        "quantity": "11",
+        "area": "3743.4 m2",
+        "price_eur": "17663.21",
+        "date_collected": "28.11.2024",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.059892,
+          52.119423
+        ]
+      },
+      "properties": {
+        "id": "53",
+        "address": "Kerkstraat 187",
+        "category": "WAREHOUSE",
+        "quantity": "n/a",
+        "area": "3128.7 m2",
+        "price_eur": "19559.46",
+        "date_collected": "05-12-2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.163978,
+          52.122827
+        ]
+      },
+      "properties": {
+        "id": "54",
+        "address": "  Dorpsstraat 134  ",
+        "category": "RETAIL",
+        "quantity": "n/a",
+        "area": "4134.0 m2",
+        "price_eur": "6103.62",
+        "date_collected": "11/25/2019",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "55",
+        "address": "Kerkstraat 269",
+        "category": "warehouse ",
+        "quantity": "-",
+        "area": "204.7 m2",
+        "price_eur": "2416.84",
+        "date_collected": "04/19/2017",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.189276,
+          52.121347
+        ]
+      },
+      "properties": {
+        "id": "56",
+        "address": "Parklaan 288",
+        "category": "retail",
+        "quantity": "33",
+        "area": "1339.8",
+        "price_eur": "6032.73",
+        "date_collected": "16-03-2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0985,
+          52.087053
+        ]
+      },
+      "properties": {
+        "id": "57",
+        "address": "Stationsplein 268",
+        "category": "",
+        "quantity": "35",
+        "area": "2530.9 m2",
+        "price_eur": "17737.58",
+        "date_collected": "18-10-2025",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15931,
+          52.058145
+        ]
+      },
+      "properties": {
+        "id": "58",
+        "address": "Stationsplein 83",
+        "category": "hospital",
+        "quantity": "16",
+        "area": "2563.1 m2",
+        "price_eur": "15217.33",
+        "date_collected": "03/24/2019",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "59",
+        "address": "Dorpsstraat 114",
+        "category": "PARK",
+        "quantity": "28",
+        "area": "1405.4 m2",
+        "price_eur": "18272.35",
+        "date_collected": "15.1.2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.184212,
+          52.069392
+        ]
+      },
+      "properties": {
+        "id": "60",
+        "address": "Parklaan 64",
+        "category": "RETAIL",
+        "quantity": "48",
+        "area": "35021.4 ft2",
+        "price_eur": "13523.97",
+        "date_collected": "2025-12-21",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.065163,
+          52.095965
+        ]
+      },
+      "properties": {
+        "id": "61",
+        "address": "Industrieweg 112",
+        "category": "school ",
+        "quantity": "-",
+        "area": "2615.3 m2",
+        "price_eur": "17523.36",
+        "date_collected": "",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.151233,
+          52.096414
+        ]
+      },
+      "properties": {
+        "id": "62",
+        "address": "  Dorpsstraat 32  ",
+        "category": "retail ",
+        "quantity": "14",
+        "area": "4951.9 m2",
+        "price_eur": "10518.95",
+        "date_collected": "06/20/2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.094151,
+          52.093861
+        ]
+      },
+      "properties": {
+        "id": "63",
+        "address": "Molenweg 181",
+        "category": "hospital",
+        "quantity": "26",
+        "area": "2337.5 m2",
+        "price_eur": "18623.67",
+        "date_collected": "2024-08-07",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.058559,
+          52.116232
+        ]
+      },
+      "properties": {
+        "id": "64",
+        "address": "Industrieweg 44",
+        "category": "RETAIL",
+        "quantity": "28",
+        "area": "3410.2 m2",
+        "price_eur": "16206.01",
+        "date_collected": "21.5.2021",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.153204,
+          52.128174
+        ]
+      },
+      "properties": {
+        "id": "65",
+        "address": "Molenweg 107",
+        "category": "shool",
+        "quantity": "n/a",
+        "area": "1088.3 m2",
+        "price_eur": "6213.35",
+        "date_collected": "28.4.2018",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074692,
+          52.097968
+        ]
+      },
+      "properties": {
+        "id": "66",
+        "address": "Kerkstraat 248",
+        "category": "warehouse",
+        "quantity": "34",
+        "area": "4726.4 ft2",
+        "price_eur": "13588.96",
+        "date_collected": "14.4.2018",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.184634,
+          52.052712
+        ]
+      },
+      "properties": {
+        "id": "67",
+        "address": "PARKLAAN 170",
+        "category": "school",
+        "quantity": "30",
+        "area": "1906.0 m2",
+        "price_eur": "19231.96",
+        "date_collected": "21-11-2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.099634,
+          52.075368
+        ]
+      },
+      "properties": {
+        "id": "68",
+        "address": "Stationsplein 260",
+        "category": "shool",
+        "quantity": "14",
+        "area": "1456.5 m2",
+        "price_eur": "5405.65",
+        "date_collected": "08/12/2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.181448,
+          52.05664
+        ]
+      },
+      "properties": {
+        "id": "69",
+        "address": "Industrieweg 193",
+        "category": "warehouse",
+        "quantity": "36",
+        "area": "4433.7 m2",
+        "price_eur": "-1469.14",
+        "date_collected": "07-08-2025",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.128323,
+          52.11598
+        ]
+      },
+      "properties": {
+        "id": "62",
+        "address": "Kerkstraat 221",
+        "category": "SCHOOL",
+        "quantity": "42",
+        "area": "1254.0 ft2",
+        "price_eur": "3204.57",
+        "date_collected": "",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.068251,
+          52.127308
+        ]
+      },
+      "properties": {
+        "id": "71",
+        "address": "Molenweg 78",
+        "category": "retail",
+        "quantity": "",
+        "area": "1966.4 m2",
+        "price_eur": "18785.53",
+        "date_collected": "14-09-2017",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.152996,
+          52.099458
+        ]
+      },
+      "properties": {
+        "id": "72",
+        "address": "STATIONSPLEIN 27",
+        "category": "Park",
+        "quantity": "48",
+        "area": "977.7 m2",
+        "price_eur": "15593.45",
+        "date_collected": "24.2.2020",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.135022,
+          52.073391
+        ]
+      },
+      "properties": {
+        "id": "73",
+        "address": "Dorpsstraat 245",
+        "category": "hospital",
+        "quantity": "4",
+        "area": "1615.6",
+        "price_eur": "14691.45",
+        "date_collected": "2021-02-26",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0711,
+          52.121249
+        ]
+      },
+      "properties": {
+        "id": "74",
+        "address": "Stationsplein 217",
+        "category": "Warehouse",
+        "quantity": "28",
+        "area": "4883.1 m2",
+        "price_eur": "8053.46",
+        "date_collected": "08-08-2020",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.103266,
+          52.05501
+        ]
+      },
+      "properties": {
+        "id": "75",
+        "address": "Industrieweg 5",
+        "category": "school ",
+        "quantity": "25",
+        "area": "11217.1 ft2",
+        "price_eur": "18668.59",
+        "date_collected": "2023-07-22",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.10575,
+          52.087075
+        ]
+      },
+      "properties": {
+        "id": "76",
+        "address": "  Molenweg 127  ",
+        "category": "warehouse",
+        "quantity": "38",
+        "area": "1049.3 m2",
+        "price_eur": "2297.67",
+        "date_collected": "19.10.2021",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.10673,
+          52.052202
+        ]
+      },
+      "properties": {
+        "id": "77",
+        "address": "INDUSTRIEWEG 68",
+        "category": "hospital",
+        "quantity": "",
+        "area": "216.2",
+        "price_eur": "17388.61",
+        "date_collected": "09-05-2022",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.191257,
+          52.125293
+        ]
+      },
+      "properties": {
+        "id": "51",
+        "address": "Molenweg 190",
+        "category": "Retail",
+        "quantity": "46",
+        "area": "4798.5 m2",
+        "price_eur": "11507.29",
+        "date_collected": "2022-09-22",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.106947,
+          52.085311
+        ]
+      },
+      "properties": {
+        "id": "79",
+        "address": "Kerkstraat 242",
+        "category": "warehouse",
+        "quantity": "-",
+        "area": "326.1 m2",
+        "price_eur": "15221.54",
+        "date_collected": "10.10.2025",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.099797,
+          52.108885
+        ]
+      },
+      "properties": {
+        "id": "80",
+        "address": "Stationsplein 166",
+        "category": "PARK",
+        "quantity": "5",
+        "area": "50301.9 ft2",
+        "price_eur": "17829.8",
+        "date_collected": "04-07-2016",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.150242,
+          52.066893
+        ]
+      },
+      "properties": {
+        "id": "81",
+        "address": "Dorpsstraat 59",
+        "category": "retail",
+        "quantity": "27",
+        "area": "1271.4 m2",
+        "price_eur": "11634.31",
+        "date_collected": "08/09/2017",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.104015,
+          52.053244
+        ]
+      },
+      "properties": {
+        "id": "82",
+        "address": "Industrieweg 175",
+        "category": "HOSPITAL",
+        "quantity": "16",
+        "area": "4629.1 m2",
+        "price_eur": "6143.86",
+        "date_collected": "24-05-2018",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.127934,
+          52.117285
+        ]
+      },
+      "properties": {
+        "id": "83",
+        "address": "Parklaan 99",
+        "category": "hospital",
+        "quantity": "46",
+        "area": "919.4 m2",
+        "price_eur": "16664.93",
+        "date_collected": "2018-05-25",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.116865,
+          52.09125
+        ]
+      },
+      "properties": {
+        "id": "84",
+        "address": "Parklaan 191",
+        "category": "warehouse",
+        "quantity": "32",
+        "area": "497.1 m2",
+        "price_eur": "15378.12",
+        "date_collected": "",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.172573,
+          52.052406
+        ]
+      },
+      "properties": {
+        "id": "85",
+        "address": "Kerkstraat 115",
+        "category": "school",
+        "quantity": "25",
+        "area": "31244.4 ft2",
+        "price_eur": "6185.06",
+        "date_collected": "",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.119308,
+          52.081729
+        ]
+      },
+      "properties": {
+        "id": "86",
+        "address": "Molenweg 278",
+        "category": "school ",
+        "quantity": "7",
+        "area": "3599.6 m2",
+        "price_eur": "2899.46",
+        "date_collected": "09-02-2017",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.087393,
+          52.083771
+        ]
+      },
+      "properties": {
+        "id": "87",
+        "address": "Industrieweg 28",
+        "category": "park",
+        "quantity": "34",
+        "area": "229.2",
+        "price_eur": "1513.33",
+        "date_collected": "06/27/2022",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.087587,
+          52.091624
+        ]
+      },
+      "properties": {
+        "id": "88",
+        "address": "Industrieweg 140",
+        "category": "",
+        "quantity": "2",
+        "area": "1166.1 m2",
+        "price_eur": "8242.51",
+        "date_collected": "01/02/2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.141493,
+          52.095614
+        ]
+      },
+      "properties": {
+        "id": "89",
+        "address": "Stationsplein 125",
+        "category": "park ",
+        "quantity": "33",
+        "area": "4512.0 m2",
+        "price_eur": "12009.84",
+        "date_collected": "17.3.2020",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.082421,
+          52.054553
+        ]
+      },
+      "properties": {
+        "id": "90",
+        "address": "Molenweg 166",
+        "category": "shool",
+        "quantity": "31",
+        "area": "4103.2 m2",
+        "price_eur": "7006.5",
+        "date_collected": "07/19/2016",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.188306,
+          52.129648
+        ]
+      },
+      "properties": {
+        "id": "75",
+        "address": "Molenweg 142",
+        "category": "park",
+        "quantity": "29",
+        "area": "19406.2 ft2",
+        "price_eur": "10658.12",
+        "date_collected": "07/05/2021",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.133303,
+          52.08076
+        ]
+      },
+      "properties": {
+        "id": "92",
+        "address": "Parklaan 235",
+        "category": "",
+        "quantity": "32",
+        "area": "2017.6",
+        "price_eur": "3417.85",
+        "date_collected": "20.10.2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.130467,
+          52.074993
+        ]
+      },
+      "properties": {
+        "id": "93",
+        "address": "  Kerkstraat 14  ",
+        "category": "retail ",
+        "quantity": "37",
+        "area": "1916.1 m2",
+        "price_eur": "16521.94",
+        "date_collected": "2021-04-20",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.129521,
+          52.115271
+        ]
+      },
+      "properties": {
+        "id": "94",
+        "address": "Dorpsstraat 250",
+        "category": "winkel",
+        "quantity": "23",
+        "area": "2292.7 m2",
+        "price_eur": "1831.25",
+        "date_collected": "2024-07-17",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.13548,
+          52.100505
+        ]
+      },
+      "properties": {
+        "id": "95",
+        "address": "Molenweg 212",
+        "category": "Hospital",
+        "quantity": "19",
+        "area": "37295.8 ft2",
+        "price_eur": "19809.85",
+        "date_collected": "2020-09-06",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.071803,
+          52.091474
+        ]
+      },
+      "properties": {
+        "id": "96",
+        "address": "Industrieweg 264",
+        "category": "Retail",
+        "quantity": "",
+        "area": "16760.5 ft2",
+        "price_eur": "11930.91",
+        "date_collected": "09/16/2025",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.117476,
+          52.080853
+        ]
+      },
+      "properties": {
+        "id": "97",
+        "address": "Stationsplein 51",
+        "category": "PARK",
+        "quantity": "28",
+        "area": "4042.7 m2",
+        "price_eur": "743.58",
+        "date_collected": "04/23/2021",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.112024,
+          52.081888
+        ]
+      },
+      "properties": {
+        "id": "98",
+        "address": "Dorpsstraat 35",
+        "category": "retail",
+        "quantity": "16",
+        "area": "1153.4 m2",
+        "price_eur": "-11946.45",
+        "date_collected": "28.8.2020",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.120052,
+          52.077558
+        ]
+      },
+      "properties": {
+        "id": "99",
+        "address": "Kerkstraat 217",
+        "category": "park",
+        "quantity": "12",
+        "area": "945.1 ft2",
+        "price_eur": "8222.52",
+        "date_collected": "28.7.2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121393,
+          52.066356
+        ]
+      },
+      "properties": {
+        "id": "100",
+        "address": "Parklaan 208",
+        "category": "hospital",
+        "quantity": "6",
+        "area": "1021.7 m2",
+        "price_eur": "15855.5",
+        "date_collected": "04/26/2018",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "101",
+        "address": "Dorpsstraat 15",
+        "category": "school",
+        "quantity": "24",
+        "area": "2696.6 m2",
+        "price_eur": "10448.78",
+        "date_collected": "09/22/2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182413,
+          52.118902
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "address": "Parklaan 205",
+        "category": "school",
+        "quantity": "5",
+        "area": "2831.9 m2",
+        "price_eur": "10257.13",
+        "date_collected": "02/10/2019",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.114605,
+          52.110557
+        ]
+      },
+      "properties": {
+        "id": "103",
+        "address": "INDUSTRIEWEG 113",
+        "category": "hospitaal",
+        "quantity": "27",
+        "area": "175.1 m2",
+        "price_eur": "9520.34",
+        "date_collected": "02/21/2018",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081521,
+          52.123159
+        ]
+      },
+      "properties": {
+        "id": "104",
+        "address": "Industrieweg 25",
+        "category": "park",
+        "quantity": "15",
+        "area": "2872.3 m2",
+        "price_eur": "5466.83",
+        "date_collected": "01/12/2017",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.078394,
+          52.126184
+        ]
+      },
+      "properties": {
+        "id": "105",
+        "address": "Molenweg 220",
+        "category": " park",
+        "quantity": "34",
+        "area": "495.2",
+        "price_eur": "8767.53",
+        "date_collected": "24-12-2023",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.094906,
+          52.120775
+        ]
+      },
+      "properties": {
+        "id": "106",
+        "address": "Molenweg 4",
+        "category": "WAREHOUSE",
+        "quantity": "16",
+        "area": "4819.9 m2",
+        "price_eur": "7270.97",
+        "date_collected": "5.3.2023",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.117203,
+          52.059039
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "address": "Kerkstraat 31",
+        "category": "Warehouse",
+        "quantity": "43",
+        "area": "816.2",
+        "price_eur": "16869.98",
+        "date_collected": "05/23/2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.063645,
+          52.072878
+        ]
+      },
+      "properties": {
+        "id": "108",
+        "address": "Dorpsstraat 251",
+        "category": "retail",
+        "quantity": "",
+        "area": "2369.1",
+        "price_eur": "9967.73",
+        "date_collected": "24-10-2020",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.070451,
+          52.123577
+        ]
+      },
+      "properties": {
+        "id": "109",
+        "address": "Stationsplein 195",
+        "category": "",
+        "quantity": "",
+        "area": "2006.6 m2",
+        "price_eur": "7673.81",
+        "date_collected": "03/22/2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.055991,
+          52.08516
+        ]
+      },
+      "properties": {
+        "id": "110",
+        "address": "  Molenweg 84  ",
+        "category": "Hospital",
+        "quantity": "46",
+        "area": "2046.0 m2",
+        "price_eur": "4720.62",
+        "date_collected": "10-10-2025",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.119071,
+          52.127704
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "address": "Industrieweg 179",
+        "category": " hospital",
+        "quantity": "46",
+        "area": "2135.0 m2",
+        "price_eur": "9054.52",
+        "date_collected": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.062781,
+          52.102839
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "address": "Industrieweg 15",
+        "category": "school",
+        "quantity": "4",
+        "area": "3627.7 m2",
+        "price_eur": "13339.5",
+        "date_collected": "08/12/2018",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.066953,
+          52.091055
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "address": "Stationsplein 251",
+        "category": "warehouse",
+        "quantity": "17",
+        "area": "615.6 m2",
+        "price_eur": "17854.87",
+        "date_collected": "2017-05-28",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.063967,
+          52.079869
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "address": "Dorpsstraat 279",
+        "category": "park",
+        "quantity": "33",
+        "area": "2775.3 m2",
+        "price_eur": "15259.56",
+        "date_collected": "24.9.2017",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.173845,
+          52.059818
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "address": "Stationsplein 87",
+        "category": "",
+        "quantity": "30",
+        "area": "1534.7 m2",
+        "price_eur": "8806.52",
+        "date_collected": "28-04-2025",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.123207,
+          52.0559
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "address": "Dorpsstraat 11",
+        "category": "warehouse",
+        "quantity": "several",
+        "area": "543.2 m2",
+        "price_eur": "16158.91",
+        "date_collected": "04/22/2020",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.143063,
+          52.101575
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "address": "DORPSSTRAAT 257",
+        "category": "school",
+        "quantity": "10",
+        "area": "2962.2 m2",
+        "price_eur": "19946.73",
+        "date_collected": "01/15/2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.100326,
+          52.088675
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "address": "Parklaan 240",
+        "category": "retail",
+        "quantity": "40",
+        "area": "2609.1 m2",
+        "price_eur": "10801.06",
+        "date_collected": "2019-01-20",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.085706,
+          52.113736
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "address": "Dorpsstraat 293",
+        "category": "School",
+        "quantity": "25",
+        "area": "1403.0 m2",
+        "price_eur": "5610.32",
+        "date_collected": "05-12-2016",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.116828,
+          52.095498
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "address": "Molenweg 179",
+        "category": "park ",
+        "quantity": "23",
+        "area": "4370.7 m2",
+        "price_eur": "7021.34",
+        "date_collected": "08/26/2024",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.060162,
+          52.088761
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "address": "Dorpsstraat 183",
+        "category": "school",
+        "quantity": "37",
+        "area": "2778.8",
+        "price_eur": "7139.11",
+        "date_collected": "10/03/2018",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0705,
+          52.065054
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "address": "KERKSTRAAT 67",
+        "category": "hospital",
+        "quantity": "16",
+        "area": "3536.8 m2",
+        "price_eur": "8291.68",
+        "date_collected": "2017-09-28",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.053861,
+          52.075351
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "address": "Stationsplein 254",
+        "category": "park",
+        "quantity": "48",
+        "area": "184.1 m2",
+        "price_eur": "12390.84",
+        "date_collected": "28-07-2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121634,
+          52.052531
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "address": "Industrieweg 295",
+        "category": "hospitaal",
+        "quantity": "unknown",
+        "area": "8139.7 ft2",
+        "price_eur": "2252.43",
+        "date_collected": "2025-11-18",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.133287,
+          52.064546
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "address": "Kerkstraat 15",
+        "category": "warehouse",
+        "quantity": "18",
+        "area": "702.7 m2",
+        "price_eur": "9777.39",
+        "date_collected": "12.3.2019",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.187048,
+          52.103937
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "address": "  Stationsplein 14  ",
+        "category": "hospital",
+        "quantity": "50",
+        "area": "852.3 m2",
+        "price_eur": "15673.05",
+        "date_collected": "16.4.2021",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.190083,
+          52.111536
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "address": "Stationsplein 256",
+        "category": "school",
+        "quantity": "41",
+        "area": "4308.7 m2",
+        "price_eur": "904.92",
+        "date_collected": "12.4.2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.170753,
+          52.062154
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "address": "Dorpsstraat 94",
+        "category": "school",
+        "quantity": "16",
+        "area": "849.9 m2",
+        "price_eur": "12153.05",
+        "date_collected": "26-04-2021",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.154764,
+          52.10828
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "address": "  Parklaan 8  ",
+        "category": "school",
+        "quantity": "11",
+        "area": "2349.2 m2",
+        "price_eur": "8576.93",
+        "date_collected": "2016-06-13",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.090946,
+          52.064178
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "address": "Kerkstraat 179",
+        "category": "Hospital",
+        "quantity": "28",
+        "area": "62.7 m2",
+        "price_eur": "11038.55",
+        "date_collected": "4.9.2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182252,
+          52.1143
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "address": "Stationsplein 277",
+        "category": "park",
+        "quantity": "several",
+        "area": "1372.7 m2",
+        "price_eur": "1307.45",
+        "date_collected": "12/11/2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "132",
+        "address": "Stationsplein 227",
+        "category": "parc",
+        "quantity": "25",
+        "area": "53340.5 ft2",
+        "price_eur": "13436.82",
+        "date_collected": "2.12.2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.138424,
+          52.095656
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "address": "Stationsplein 135",
+        "category": "winkel",
+        "quantity": "25",
+        "area": "1808.3 m2",
+        "price_eur": "19530.67",
+        "date_collected": "2017-06-27",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.103497,
+          52.114257
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "address": "Dorpsstraat 63",
+        "category": "park",
+        "quantity": "24",
+        "area": "1231.3 m2",
+        "price_eur": "16526.76",
+        "date_collected": "11/27/2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "135",
+        "address": "Molenweg 190",
+        "category": "retail",
+        "quantity": "8",
+        "area": "2274.1 m2",
+        "price_eur": "16066.49",
+        "date_collected": "22.3.2021",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.094287,
+          52.082634
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "address": "Stationsplein 23",
+        "category": "WAREHOUSE",
+        "quantity": "17",
+        "area": "13423.7 ft2",
+        "price_eur": "2280.91",
+        "date_collected": "03/07/2022",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.115418,
+          52.129594
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "address": "  Parklaan 14  ",
+        "category": " hospital",
+        "quantity": "46",
+        "area": "2922.1 m2",
+        "price_eur": "4461.02",
+        "date_collected": "15.7.2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.082345,
+          52.086342
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "address": "Kerkstraat 293",
+        "category": " park",
+        "quantity": "",
+        "area": "1200.5 m2",
+        "price_eur": "11062.47",
+        "date_collected": "11-07-2023",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.178832,
+          52.094455
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "address": "INDUSTRIEWEG 141",
+        "category": "school",
+        "quantity": "-",
+        "area": "4225.9 m2",
+        "price_eur": "8435.52",
+        "date_collected": "11-06-2019",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09714,
+          52.092646
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "address": "Stationsplein 103",
+        "category": "retail",
+        "quantity": "28",
+        "area": "4290.4 m2",
+        "price_eur": "4439.14",
+        "date_collected": "2023-08-12",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.124572,
+          52.051135
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "address": "  Parklaan 64  ",
+        "category": "",
+        "quantity": "13",
+        "area": "38398.1 ft2",
+        "price_eur": "12045.8",
+        "date_collected": "15-04-2019",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074022,
+          52.085705
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "address": "DORPSSTRAAT 218",
+        "category": "shool",
+        "quantity": "50",
+        "area": "4593.4 m2",
+        "price_eur": "2466.82",
+        "date_collected": "07/02/2019",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.159236,
+          52.084389
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "address": "Stationsplein 115",
+        "category": "warehouse",
+        "quantity": "17",
+        "area": "17821.8 ft2",
+        "price_eur": "3462.01",
+        "date_collected": "13.1.2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.165166,
+          52.111206
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "address": "INDUSTRIEWEG 299",
+        "category": "park ",
+        "quantity": "34",
+        "area": "2655.4 m2",
+        "price_eur": "7285.0",
+        "date_collected": "04/03/2023",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.168198,
+          52.097648
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "address": "Stationsplein 36",
+        "category": "",
+        "quantity": "23",
+        "area": "1012.2 m2",
+        "price_eur": "6350.47",
+        "date_collected": "04/16/2021",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.124419,
+          52.092879
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "address": "  DORPSSTRAAT 156  ",
+        "category": "parc",
+        "quantity": "37",
+        "area": "4194.1 m2",
+        "price_eur": "14688.67",
+        "date_collected": "22-02-2021",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.073049,
+          52.071134
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "address": "Dorpsstraat 293",
+        "category": "Retail",
+        "quantity": "26",
+        "area": "2798.7",
+        "price_eur": "18213.84",
+        "date_collected": "08-02-2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.171583,
+          52.086943
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "address": "Kerkstraat 111",
+        "category": "warehouse ",
+        "quantity": "14",
+        "area": "1207.9 m2",
+        "price_eur": "15788.25",
+        "date_collected": "02/08/2025",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0995,
+          52.055523
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "address": "Kerkstraat 2",
+        "category": " park",
+        "quantity": "unknown",
+        "area": "782.9 m2",
+        "price_eur": "3759.14",
+        "date_collected": "04/07/2019",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.107874,
+          52.101181
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "address": "Parklaan 239",
+        "category": "Park",
+        "quantity": "46",
+        "area": "4858.2 m2",
+        "price_eur": "16165.21",
+        "date_collected": "03/16/2020",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.15079,
+          52.113344
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "address": "Dorpsstraat 176",
+        "category": "",
+        "quantity": "49",
+        "area": "4199.9 m2",
+        "price_eur": "4361.26",
+        "date_collected": "16.10.2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.183433,
+          52.082596
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "address": "DORPSSTRAAT 17",
+        "category": "",
+        "quantity": "",
+        "area": "6431.4 ft2",
+        "price_eur": "8663.82",
+        "date_collected": "11-09-2019",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.050053,
+          52.064028
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "address": "Industrieweg 97",
+        "category": "School",
+        "quantity": "22",
+        "area": "4790.6 m2",
+        "price_eur": "4871.91",
+        "date_collected": "05/13/2023",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.144789,
+          52.080069
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "address": "Stationsplein 228",
+        "category": "retail",
+        "quantity": "36",
+        "area": "39676.8 ft2",
+        "price_eur": "13489.13",
+        "date_collected": "09-11-2022",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.138132,
+          52.096141
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "address": "  Stationsplein 248  ",
+        "category": "park",
+        "quantity": "4",
+        "area": "47170.6 ft2",
+        "price_eur": "2821.56",
+        "date_collected": "",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.124364,
+          52.053866
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "address": "Parklaan 185",
+        "category": "school",
+        "quantity": "19",
+        "area": "3875.7 m2",
+        "price_eur": "11190.08",
+        "date_collected": "22.11.2022",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.089032,
+          52.081518
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "address": "Dorpsstraat 102",
+        "category": "School",
+        "quantity": "20",
+        "area": "4542.6 m2",
+        "price_eur": "19443.84",
+        "date_collected": "03/23/2020",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.177712,
+          52.059688
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "address": "Stationsplein 201",
+        "category": "RETAIL",
+        "quantity": "27",
+        "area": "34484.3 ft2",
+        "price_eur": "6637.75",
+        "date_collected": "16.11.2024",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.109997,
+          52.089985
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "address": "Molenweg 61",
+        "category": "parc",
+        "quantity": "16",
+        "area": "47740.0 ft2",
+        "price_eur": "2379.88",
+        "date_collected": "12/27/2017",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.150733,
+          52.110329
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "address": "Industrieweg 141",
+        "category": "school",
+        "quantity": "19",
+        "area": "711.1 m2",
+        "price_eur": "1786.02",
+        "date_collected": "28.10.2019",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.154915,
+          52.055774
+        ]
+      },
+      "properties": {
+        "id": "161",
+        "address": "  Molenweg 159  ",
+        "category": "hospital",
+        "quantity": "19",
+        "area": "699.8 m2",
+        "price_eur": "14223.65",
+        "date_collected": "10/03/2025",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081347,
+          52.117152
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "address": "Stationsplein 170",
+        "category": " hospital",
+        "quantity": "4",
+        "area": "4887.5 m2",
+        "price_eur": "12115.57",
+        "date_collected": "2023-02-15",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121682,
+          52.060699
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "address": "Kerkstraat 191",
+        "category": "warehouse",
+        "quantity": "18",
+        "area": "2148.4 m2",
+        "price_eur": "12785.2",
+        "date_collected": "13.7.2024",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.157927,
+          52.055018
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "address": "Parklaan 152",
+        "category": "warehouse ",
+        "quantity": "49",
+        "area": "1011.3 m2",
+        "price_eur": "10566.08",
+        "date_collected": "12/23/2019",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.182639,
+          52.088882
+        ]
+      },
+      "properties": {
+        "id": "165",
+        "address": "Kerkstraat 233",
+        "category": "park",
+        "quantity": "36",
+        "area": "1809.1 m2",
+        "price_eur": "12828.45",
+        "date_collected": "12/02/2018",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.051931,
+          52.067122
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "address": "Parklaan 197",
+        "category": "hospital",
+        "quantity": "7",
+        "area": "2665.1 m2",
+        "price_eur": "8083.68",
+        "date_collected": "7.12.2020",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.135809,
+          52.123638
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "address": "  Dorpsstraat 54  ",
+        "category": "Retail",
+        "quantity": "n/a",
+        "area": "4299.7 m2",
+        "price_eur": "11411.89",
+        "date_collected": "2019-01-07",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "168",
+        "address": "  Dorpsstraat 196  ",
+        "category": "retail",
+        "quantity": "11",
+        "area": "2031.1 m2",
+        "price_eur": "14417.88",
+        "date_collected": "2025-08-23",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18235,
+          52.057726
+        ]
+      },
+      "properties": {
+        "id": "169",
+        "address": "  Molenweg 240  ",
+        "category": "school",
+        "quantity": "n/a",
+        "area": "4544.6 m2",
+        "price_eur": "518.44",
+        "date_collected": "8.11.2016",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "170",
+        "address": "Parklaan 280",
+        "category": "warehouse ",
+        "quantity": "1",
+        "area": "407.1 m2",
+        "price_eur": "13140.98",
+        "date_collected": "20-10-2024",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.140964,
+          52.128286
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "address": "Kerkstraat 46",
+        "category": "parc",
+        "quantity": "42",
+        "area": "3691.0 m2",
+        "price_eur": "19674.47",
+        "date_collected": "17-06-2017",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.058222,
+          52.099498
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "address": "Parklaan 16",
+        "category": "Park",
+        "quantity": "34",
+        "area": "1957.6",
+        "price_eur": "18513.95",
+        "date_collected": "25-12-2017",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.188136,
+          52.076297
+        ]
+      },
+      "properties": {
+        "id": "173",
+        "address": "Kerkstraat 212",
+        "category": "hospital",
+        "quantity": "21",
+        "area": "1942.3 m2",
+        "price_eur": "3677.23",
+        "date_collected": "10/16/2021",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.082709,
+          52.110406
+        ]
+      },
+      "properties": {
+        "id": "174",
+        "address": "Dorpsstraat 266",
+        "category": "school",
+        "quantity": "21",
+        "area": "2153.8 m2",
+        "price_eur": "1753.0",
+        "date_collected": "2016-09-07",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.061691,
+          52.108368
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "address": "Parklaan 73",
+        "category": "Hospital",
+        "quantity": "44",
+        "area": "873.8",
+        "price_eur": "6043.97",
+        "date_collected": "02/01/2019",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.054605,
+          52.116301
+        ]
+      },
+      "properties": {
+        "id": "176",
+        "address": "Parklaan 49",
+        "category": "PARK",
+        "quantity": "33",
+        "area": "3453.3 m2",
+        "price_eur": "15503.98",
+        "date_collected": "2022-07-10",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.059308,
+          52.073671
+        ]
+      },
+      "properties": {
+        "id": "177",
+        "address": "Kerkstraat 30",
+        "category": "school",
+        "quantity": "",
+        "area": "10658.4 ft2",
+        "price_eur": "3581.69",
+        "date_collected": "22-05-2018",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.086131,
+          52.12143
+        ]
+      },
+      "properties": {
+        "id": "178",
+        "address": "Kerkstraat 115",
+        "category": "school",
+        "quantity": "24",
+        "area": "3950.5 m2",
+        "price_eur": "7641.49",
+        "date_collected": "8.3.2020",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.120375,
+          52.124927
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "address": "  Dorpsstraat 226  ",
+        "category": " park",
+        "quantity": "",
+        "area": "2219.8 m2",
+        "price_eur": "9469.09",
+        "date_collected": "2023-08-04",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.17101,
+          52.10048
+        ]
+      },
+      "properties": {
+        "id": "180",
+        "address": "Stationsplein 240",
+        "category": " park",
+        "quantity": "25",
+        "area": "594.7",
+        "price_eur": "10734.39",
+        "date_collected": "28-06-2019",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.178598,
+          52.079418
+        ]
+      },
+      "properties": {
+        "id": "181",
+        "address": "Parklaan 72",
+        "category": "hospital",
+        "quantity": "31",
+        "area": "1323.7 m2",
+        "price_eur": "12737.19",
+        "date_collected": "2016-08-21",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121558,
+          52.090932
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "address": "DORPSSTRAAT 13",
+        "category": "",
+        "quantity": "29",
+        "area": "1124.0 m2",
+        "price_eur": "9060.8",
+        "date_collected": "2025-06-24",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.050024,
+          52.098603
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "address": "Parklaan 12",
+        "category": "retail",
+        "quantity": "31",
+        "area": "1049.4",
+        "price_eur": "9403.28",
+        "date_collected": "2022-01-11",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.179033,
+          52.126555
+        ]
+      },
+      "properties": {
+        "id": "184",
+        "address": "Industrieweg 232",
+        "category": "winkel",
+        "quantity": "27",
+        "area": "788.3 m2",
+        "price_eur": "10683.02",
+        "date_collected": "2.3.2019",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.078903,
+          52.056082
+        ]
+      },
+      "properties": {
+        "id": "185",
+        "address": "Dorpsstraat 272",
+        "category": "winkel",
+        "quantity": "",
+        "area": "1483.7 m2",
+        "price_eur": "19354.42",
+        "date_collected": "17-07-2020",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.063343,
+          52.127677
+        ]
+      },
+      "properties": {
+        "id": "186",
+        "address": "Parklaan 93",
+        "category": "warehouse ",
+        "quantity": "17",
+        "area": "3403.1 m2",
+        "price_eur": "14954.97",
+        "date_collected": "22.6.2016",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136544,
+          52.078454
+        ]
+      },
+      "properties": {
+        "id": "187",
+        "address": "Industrieweg 216",
+        "category": "retail",
+        "quantity": "24",
+        "area": "1931.4 m2",
+        "price_eur": "7615.69",
+        "date_collected": "2016-02-09",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.181269,
+          52.097104
+        ]
+      },
+      "properties": {
+        "id": "188",
+        "address": "STATIONSPLEIN 131",
+        "category": "winkel",
+        "quantity": "26",
+        "area": "1880.0",
+        "price_eur": "15452.17",
+        "date_collected": "2025-04-21",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.10234,
+          52.073342
+        ]
+      },
+      "properties": {
+        "id": "189",
+        "address": "Kerkstraat 46",
+        "category": "park",
+        "quantity": "",
+        "area": "43078.2 ft2",
+        "price_eur": "2172.72",
+        "date_collected": "",
+        "notes": "Grond in slechte staat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.060823,
+          52.087796
+        ]
+      },
+      "properties": {
+        "id": "190",
+        "address": "Parklaan 217",
+        "category": "Hospital",
+        "quantity": "4",
+        "area": "3498.3 m2",
+        "price_eur": "15938.92",
+        "date_collected": "16-03-2019",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.084318,
+          52.051881
+        ]
+      },
+      "properties": {
+        "id": "191",
+        "address": "Stationsplein 257",
+        "category": "school ",
+        "quantity": "6",
+        "area": "4133.0 m2",
+        "price_eur": "8991700.0",
+        "date_collected": "19.4.2017",
+        "notes": "Near station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.098755,
+          52.068908
+        ]
+      },
+      "properties": {
+        "id": "192",
+        "address": "  Parklaan 157  ",
+        "category": "school",
+        "quantity": "14",
+        "area": "4931.9",
+        "price_eur": "18022.06",
+        "date_collected": "15.6.2020",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11276,
+          52.106413
+        ]
+      },
+      "properties": {
+        "id": "193",
+        "address": "Parklaan 263",
+        "category": "SCHOOL",
+        "quantity": "24",
+        "area": "3444.6 m2",
+        "price_eur": "6560.0",
+        "date_collected": "20.7.2022",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.157381,
+          52.108879
+        ]
+      },
+      "properties": {
+        "id": "194",
+        "address": "PARKLAAN 175",
+        "category": "hospital",
+        "quantity": "18",
+        "area": "7627.3 ft2",
+        "price_eur": "18896.44",
+        "date_collected": "10/22/2016",
+        "notes": "Ã‚Â good condition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.163814,
+          52.081456
+        ]
+      },
+      "properties": {
+        "id": "181",
+        "address": "Parklaan 198",
+        "category": "School",
+        "quantity": "27",
+        "area": "887.1 m2",
+        "price_eur": "15416.76",
+        "date_collected": "04-04-2023",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.179459,
+          52.095991
+        ]
+      },
+      "properties": {
+        "id": "196",
+        "address": "Parklaan 175",
+        "category": "school",
+        "quantity": "33",
+        "area": "1727.3 m2",
+        "price_eur": "5475.57",
+        "date_collected": "10/05/2021",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.087983,
+          52.102475
+        ]
+      },
+      "properties": {
+        "id": "69",
+        "address": "Parklaan 27",
+        "category": "Warehouse",
+        "quantity": "18",
+        "area": "4750.6 m2",
+        "price_eur": "12547.68",
+        "date_collected": "2022-01-08",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.104135,
+          52.055121
+        ]
+      },
+      "properties": {
+        "id": "198",
+        "address": "Dorpsstraat 237",
+        "category": "hospitaal",
+        "quantity": "unknown",
+        "area": "45714.3 ft2",
+        "price_eur": "3212.22",
+        "date_collected": "22.9.2016",
+        "notes": "NÃ¤he Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.199666,
+          52.121681
+        ]
+      },
+      "properties": {
+        "id": "199",
+        "address": "Stationsplein 160",
+        "category": "",
+        "quantity": "32",
+        "area": "3718.5 m2",
+        "price_eur": "9510.33",
+        "date_collected": "13.5.2025",
+        "notes": "Renovated in 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.083349,
+          52.109585
+        ]
+      },
+      "properties": {
+        "id": "200",
+        "address": "Molenweg 269",
+        "category": "RETAIL",
+        "quantity": "43",
+        "area": "3494.7 m2",
+        "price_eur": "18329.38",
+        "date_collected": "14.1.2018",
+        "notes": "Near station"
+      }
+    }
+  ]
+}

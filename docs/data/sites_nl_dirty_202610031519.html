@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/><style>
+table {border: medium solid #6495ed;border-collapse: collapse;width: 100%;} th{font-family: monospace;border: thin solid #6495ed;padding: 5px;background-color: #D0E3FA;}th{text-align: left;}td{font-family: sans-serif;border: thin solid #6495ed;padding: 5px;text-align: center;}.odd{background:#e8edff;}img{padding:5px; border:solid; border-color: #dddddd #aaaaaa #aaaaaa #dddddd; border-width: 1px 2px 2px 1px; background-color:white;}</style>
+</head>
+<body>
+<table><tr><th colspan="10"><pre><code>sites_nl_dirty</code></pre></th></tr><tr><th>ogc_fid</th><th>id</th><th>address</th><th>category</th><th>quantity</th><th>area</th><th>price_eur</th><th>date_collected</th><th>notes</th><th>wkb_geometry</th></tr><tr class="odd"><td>1</td><td>1</td><td>Industrieweg 64</td><td>hospital</td><td>n/a</td><td>1860.2 m2</td><td>10395.0</td><td>3.4.2017</td><td></td><td>POINT (5.136565 52.081734)</td></tr>
+<tr><td>2</td><td>2</td><td>Dorpsstraat 273</td><td>SCHOOL</td><td>20</td><td>2823.3 m2</td><td>2509.59</td><td>04-09-2017</td><td></td><td>POINT (5.104237 52.069874)</td></tr>
+<tr class="odd"><td>3</td><td>3</td><td>Parklaan 40</td><td>school</td><td>22</td><td>3660.8 m2</td><td>19613.41</td><td>25.6.2018</td><td>Grond in slechte staat</td><td>POINT (5.102527 52.089734)</td></tr>
+<tr><td>4</td><td>4</td><td>Stationsplein 87</td><td>Retail</td><td>4</td><td>3669.2 m2</td><td>11769.95</td><td>23-07-2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.069401 52.069809)</td></tr>
+<tr class="odd"><td>5</td><td>5</td><td>Molenweg 78</td><td>retail</td><td>18</td><td>47605.5 ft2</td><td>17347.7</td><td>2022-11-12</td><td>Ã‚Â good condition</td><td>POINT (5.077351 52.072554)</td></tr>
+<tr><td>6</td><td>6</td><td>Dorpsstraat 54</td><td>shool</td><td>33</td><td>4753.6 m2</td><td>14925.8</td><td>28.11.2024</td><td>NÃ¤he Bahnhof</td><td>POINT (5.081314 52.062984)</td></tr>
+<tr class="odd"><td>7</td><td>7</td><td>Dorpsstraat 239</td><td>hospital</td><td>24</td><td>3088.0 m2</td><td>4555.08</td><td>12.10.2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.101395 52.071181)</td></tr>
+<tr><td>8</td><td>8</td><td>Stationsplein 115</td><td>SCHOOL</td><td>35</td><td>49244.8 ft2</td><td>6312.75</td><td>05/28/2024</td><td>Grond in slechte staat</td><td>POINT (5.141984 52.113072)</td></tr>
+<tr class="odd"><td>9</td><td>9</td><td>Parklaan 179</td><td>school</td><td>34</td><td>2489.3 m2</td><td>19797.27</td><td>12/07/2025</td><td>NÃ¤he Bahnhof</td><td>POINT (5.120512 52.077019)</td></tr>
+<tr><td>10</td><td>10</td><td>  Parklaan 171  </td><td>retail</td><td>42</td><td>1752.8 m2</td><td>16775.65</td><td>2023-04-23</td><td>Near station</td><td>POINT (5.110208 52.125744)</td></tr>
+<tr class="odd"><td>11</td><td>11</td><td>Parklaan 53</td><td></td><td>42</td><td>8327.0 ft2</td><td>19615.97</td><td></td><td>Ã‚Â good condition</td><td>POINT (5.079221 52.119913)</td></tr>
+<tr><td>12</td><td>12</td><td>  Industrieweg 262  </td><td>park </td><td>35</td><td>2124.1 m2</td><td>18245.33</td><td>2022-09-19</td><td>NÃ¤he Bahnhof</td><td>POINT (5.166406 52.061984)</td></tr>
+<tr class="odd"><td>13</td><td>13</td><td>Kerkstraat 227</td><td>School</td><td>36</td><td>26245.6 ft2</td><td>17722.94</td><td>2.2.2024</td><td></td><td>POINT (5.15391 52.086188)</td></tr>
+<tr><td>14</td><td>14</td><td>Dorpsstraat 38</td><td>warehouse</td><td>17</td><td>49705.5 ft2</td><td>4450.48</td><td>13-08-2021</td><td>Renovated in 2019</td><td>POINT (5.073167 52.10729)</td></tr>
+<tr class="odd"><td>15</td><td>15</td><td>STATIONSPLEIN 48</td><td>HOSPITAL</td><td>26</td><td>4430.4 m2</td><td>13522.74</td><td>17.7.2021</td><td></td><td>POINT (5.155473 52.080748)</td></tr>
+<tr><td>16</td><td>16</td><td>Industrieweg 293</td><td>Hospital</td><td>7</td><td>466.1 m2</td><td>18165.02</td><td>27.7.2020</td><td>Grond in slechte staat</td><td>POINT (5.153231 52.084025)</td></tr>
+<tr class="odd"><td>17</td><td>17</td><td>Molenweg 57</td><td>park</td><td>5</td><td>1359.0 m2</td><td>725.15</td><td>09-10-2018</td><td>NÃ¤he Bahnhof</td><td>POINT (5.096799 52.0744)</td></tr>
+<tr><td>18</td><td>18</td><td>Dorpsstraat 260</td><td>HOSPITAL</td><td>3</td><td>126.0 m2</td><td>11245.46</td><td>15.2.2022</td><td>NÃ¤he Bahnhof</td><td>POINT (5.174843 52.106538)</td></tr>
+<tr class="odd"><td>19</td><td>19</td><td>Kerkstraat 236</td><td>retail</td><td></td><td>33863.2 ft2</td><td>8899.44</td><td>2020-09-13</td><td>Renovated in 2019</td><td>POINT (5.194268 52.12781)</td></tr>
+<tr><td>20</td><td>20</td><td>Dorpsstraat 12</td><td>shool</td><td>6</td><td>2399.5 m2</td><td>-4419.11</td><td>9.2.2018</td><td>Renovated in 2019</td><td>POINT (5.129378 52.110043)</td></tr>
+<tr class="odd"><td>21</td><td>21</td><td>Industrieweg 292</td><td>warehouse </td><td>40</td><td>3233.9 m2</td><td>16788.15</td><td>2024-12-24</td><td>Near station</td><td>POINT (5.183924 52.104632)</td></tr>
+<tr><td>22</td><td>22</td><td>KERKSTRAAT 243</td><td>School</td><td>29</td><td>2814.7 m2</td><td>12711.42</td><td>01-08-2017</td><td>Grond in slechte staat</td><td>POINT (5.163466 52.068459)</td></tr>
+<tr class="odd"><td>23</td><td>23</td><td>Kerkstraat 249</td><td></td><td>3</td><td>3104.0 m2</td><td>2010.7</td><td></td><td>Near station</td><td>POINT (5.123442 52.10671)</td></tr>
+<tr><td>24</td><td>24</td><td>Molenweg 39</td><td>Retail</td><td>6</td><td>4684.5 m2</td><td>9449.93</td><td>2022-05-15</td><td></td><td>POINT (5.103933 52.098269)</td></tr>
+<tr class="odd"><td>25</td><td>25</td><td>  Kerkstraat 170  </td><td>hospital</td><td>32</td><td>2000.7 m2</td><td>19024.21</td><td>03/24/2022</td><td>Ã‚Â good condition</td><td>POINT (5.18896 52.107042)</td></tr>
+<tr><td>26</td><td>26</td><td>Dorpsstraat 262</td><td>Hospital</td><td>24</td><td>49845.5 ft2</td><td>17157.98</td><td>2018-05-22</td><td>Ã‚Â good condition</td><td>POINT (5.171794 52.100472)</td></tr>
+<tr class="odd"><td>27</td><td>27</td><td>Stationsplein 134</td><td></td><td>49</td><td>7921.2 ft2</td><td>9968.71</td><td>08/06/2022</td><td>Ã‚Â good condition</td><td>POINT (5.109155 52.063387)</td></tr>
+<tr><td>28</td><td>28</td><td>Industrieweg 104</td><td>school </td><td>49</td><td>2277.3 m2</td><td>4251.94</td><td>06/03/2019</td><td>Ã‚Â good condition</td><td>POINT (5.161876 52.0668)</td></tr>
+<tr class="odd"><td>29</td><td>29</td><td>  Kerkstraat 66  </td><td>parc</td><td>41</td><td>42646.6 ft2</td><td>2305.66</td><td>08/21/2022</td><td>Ã‚Â good condition</td><td>POINT (5.123474 52.055851)</td></tr>
+<tr><td>30</td><td>30</td><td>MOLENWEG 120</td><td>warehouse</td><td>10</td><td>802.7</td><td>2623.36</td><td></td><td>Near station</td><td>POINT (5.069195 52.070144)</td></tr>
+<tr class="odd"><td>31</td><td>31</td><td>  Industrieweg 127  </td><td>park </td><td>15</td><td>3962.9 m2</td><td>10980.79</td><td>11.11.2019</td><td>Near station</td><td>POINT (5.053268 52.089865)</td></tr>
+<tr><td>32</td><td>32</td><td>Molenweg 160</td><td>RETAIL</td><td>3</td><td>3494.3 m2</td><td>-7565.24</td><td>10-12-2024</td><td>Ã‚Â good condition</td><td>POINT (5.164071 52.073595)</td></tr>
+<tr class="odd"><td>33</td><td>33</td><td>Dorpsstraat 161</td><td>retail</td><td>4</td><td>4746.4 m2</td><td>8172.47</td><td>05-07-2016</td><td>NÃ¤he Bahnhof</td><td>POINT (5.077827 52.124871)</td></tr>
+<tr><td>34</td><td>34</td><td>  Stationsplein 222  </td><td> park</td><td>7</td><td>64.2 m2</td><td>7353.6</td><td>04/25/2022</td><td>NÃ¤he Bahnhof</td><td>POINT (5.187926 52.065442)</td></tr>
+<tr class="odd"><td>35</td><td>35</td><td>Industrieweg 23</td><td>winkel</td><td>25</td><td>222.5 m2</td><td>18441.5</td><td>06/20/2021</td><td>Grond in slechte staat</td><td>POINT (5.094611 52.107726)</td></tr>
+<tr><td>36</td><td>36</td><td>Stationsplein 164</td><td>PARK</td><td>50</td><td>1963.2 m2</td><td>8883.79</td><td>2020-01-06</td><td></td><td>POINT (5.079597 52.110231)</td></tr>
+<tr class="odd"><td>37</td><td>37</td><td>Dorpsstraat 236</td><td>park</td><td>28</td><td>4423.2</td><td>5665.38</td><td>2023-12-16</td><td>Near station</td><td>POINT (5.166081 52.110765)</td></tr>
+<tr><td>38</td><td>38</td><td>Molenweg 52</td><td>hospitaal</td><td>16</td><td>969.4 m2</td><td>5986.4</td><td>2020-07-03</td><td>Renovated in 2019</td><td>&nbsp;</td></tr>
+<tr class="odd"><td>39</td><td>39</td><td>  Stationsplein 4  </td><td>school</td><td>several</td><td>1202.8 m2</td><td>12209.62</td><td>2024-06-03</td><td></td><td>POINT (5.055618 52.077201)</td></tr>
+<tr><td>40</td><td>17</td><td>Kerkstraat 203</td><td>park</td><td></td><td>1669.9 m2</td><td>4110.33</td><td>26.8.2024</td><td></td><td>POINT (5.074553 52.105632)</td></tr>
+<tr class="odd"><td>41</td><td>41</td><td>Dorpsstraat 81</td><td>hospital</td><td>several</td><td>2099.7 m2</td><td>15449.92</td><td>2022-12-13</td><td>Ã‚Â good condition</td><td>POINT (5.104709 52.111844)</td></tr>
+<tr><td>42</td><td>42</td><td>  Molenweg 155  </td><td>park</td><td>40</td><td>4639.8 m2</td><td>3847.87</td><td>6.2.2017</td><td>Ã‚Â good condition</td><td>POINT (5.141147 52.100909)</td></tr>
+<tr class="odd"><td>43</td><td>43</td><td>Molenweg 127</td><td>warehouse</td><td>40</td><td>22089.7 ft2</td><td>16669.16</td><td>13.9.2018</td><td>NÃ¤he Bahnhof</td><td>POINT (5.134351 52.110597)</td></tr>
+<tr><td>44</td><td>21</td><td>Dorpsstraat 235</td><td> park</td><td>27</td><td>1575.6 m2</td><td>8089.64</td><td>6.1.2016</td><td>Ã‚Â good condition</td><td>POINT (5.069268 52.084448)</td></tr>
+<tr class="odd"><td>45</td><td>45</td><td>Parklaan 57</td><td></td><td>21</td><td>3899.3 m2</td><td>1558.17</td><td>26-03-2016</td><td>Ã‚Â good condition</td><td>POINT (5.171649 52.113598)</td></tr>
+<tr><td>46</td><td>46</td><td>Kerkstraat 102</td><td>shool</td><td>40</td><td>15190.0 ft2</td><td>3299.66</td><td>2020-10-07</td><td>Grond in slechte staat</td><td>POINT (5.184312 52.063499)</td></tr>
+<tr class="odd"><td>47</td><td>47</td><td>  Stationsplein 296  </td><td></td><td>29</td><td>2798.1 m2</td><td>17709.43</td><td>07/21/2021</td><td>Renovated in 2019</td><td>POINT (5.076513 52.109488)</td></tr>
+<tr><td>48</td><td>34</td><td>Industrieweg 182</td><td>hospitaal</td><td>19</td><td>3099.5 m2</td><td>10497.22</td><td>08-10-2016</td><td></td><td>POINT (5.137539 52.097127)</td></tr>
+<tr class="odd"><td>49</td><td>49</td><td>Industrieweg 180</td><td>warehouse</td><td>unknown</td><td>3552.0 m2</td><td>1741.54</td><td>09-07-2020</td><td></td><td>POINT (5.160028 52.06988)</td></tr>
+<tr><td>50</td><td>50</td><td>Molenweg 261</td><td>Park</td><td>50</td><td>569.3 m2</td><td>13307.6</td><td>17.10.2024</td><td>Renovated in 2019</td><td>POINT (5.158646 52.088234)</td></tr>
+<tr class="odd"><td>51</td><td>51</td><td>Industrieweg 224</td><td>retail</td><td>29</td><td>918.2</td><td>5597.82</td><td>24-12-2020</td><td>Grond in slechte staat</td><td>POINT (5.189286 52.121534)</td></tr>
+<tr><td>52</td><td>52</td><td>Industrieweg 4</td><td>warehouse </td><td>11</td><td>3743.4 m2</td><td>17663.21</td><td>28.11.2024</td><td>Near station</td><td>POINT (5.182714 52.113136)</td></tr>
+<tr class="odd"><td>53</td><td>53</td><td>Kerkstraat 187</td><td>WAREHOUSE</td><td>n/a</td><td>3128.7 m2</td><td>19559.46</td><td>05-12-2016</td><td></td><td>POINT (5.059892 52.119423)</td></tr>
+<tr><td>54</td><td>54</td><td>  Dorpsstraat 134  </td><td>RETAIL</td><td>n/a</td><td>4134.0 m2</td><td>6103.62</td><td>11/25/2019</td><td>Grond in slechte staat</td><td>POINT (5.163978 52.122827)</td></tr>
+<tr class="odd"><td>55</td><td>55</td><td>Kerkstraat 269</td><td>warehouse </td><td>-</td><td>204.7 m2</td><td>2416.84</td><td>04/19/2017</td><td>Renovated in 2019</td><td>&nbsp;</td></tr>
+<tr><td>56</td><td>56</td><td>Parklaan 288</td><td>retail</td><td>33</td><td>1339.8</td><td>6032.73</td><td>16-03-2017</td><td>Grond in slechte staat</td><td>POINT (5.189276 52.121347)</td></tr>
+<tr class="odd"><td>57</td><td>57</td><td>Stationsplein 268</td><td></td><td>35</td><td>2530.9 m2</td><td>17737.58</td><td>18-10-2025</td><td>Near station</td><td>POINT (5.0985 52.087053)</td></tr>
+<tr><td>58</td><td>58</td><td>Stationsplein 83</td><td>hospital</td><td>16</td><td>2563.1 m2</td><td>15217.33</td><td>03/24/2019</td><td>Grond in slechte staat</td><td>POINT (5.15931 52.058145)</td></tr>
+<tr class="odd"><td>59</td><td>59</td><td>Dorpsstraat 114</td><td>PARK</td><td>28</td><td>1405.4 m2</td><td>18272.35</td><td>15.1.2016</td><td>Ã‚Â good condition</td><td>&nbsp;</td></tr>
+<tr><td>60</td><td>60</td><td>Parklaan 64</td><td>RETAIL</td><td>48</td><td>35021.4 ft2</td><td>13523.97</td><td>2025-12-21</td><td>Near station</td><td>POINT (5.184212 52.069392)</td></tr>
+<tr class="odd"><td>61</td><td>61</td><td>Industrieweg 112</td><td>school </td><td>-</td><td>2615.3 m2</td><td>17523.36</td><td></td><td>NÃ¤he Bahnhof</td><td>POINT (5.065163 52.095965)</td></tr>
+<tr><td>62</td><td>62</td><td>  Dorpsstraat 32  </td><td>retail </td><td>14</td><td>4951.9 m2</td><td>10518.95</td><td>06/20/2016</td><td>Ã‚Â good condition</td><td>POINT (5.151233 52.096414)</td></tr>
+<tr class="odd"><td>63</td><td>63</td><td>Molenweg 181</td><td>hospital</td><td>26</td><td>2337.5 m2</td><td>18623.67</td><td>2024-08-07</td><td>Ã‚Â good condition</td><td>POINT (5.094151 52.093861)</td></tr>
+<tr><td>64</td><td>64</td><td>Industrieweg 44</td><td>RETAIL</td><td>28</td><td>3410.2 m2</td><td>16206.01</td><td>21.5.2021</td><td>Grond in slechte staat</td><td>POINT (5.058559 52.116232)</td></tr>
+<tr class="odd"><td>65</td><td>65</td><td>Molenweg 107</td><td>shool</td><td>n/a</td><td>1088.3 m2</td><td>6213.35</td><td>28.4.2018</td><td>NÃ¤he Bahnhof</td><td>POINT (5.153204 52.128174)</td></tr>
+<tr><td>66</td><td>66</td><td>Kerkstraat 248</td><td>warehouse</td><td>34</td><td>4726.4 ft2</td><td>13588.96</td><td>14.4.2018</td><td>Ã‚Â good condition</td><td>POINT (5.074692 52.097968)</td></tr>
+<tr class="odd"><td>67</td><td>67</td><td>PARKLAAN 170</td><td>school</td><td>30</td><td>1906.0 m2</td><td>19231.96</td><td>21-11-2016</td><td>Ã‚Â good condition</td><td>POINT (5.184634 52.052712)</td></tr>
+<tr><td>68</td><td>68</td><td>Stationsplein 260</td><td>shool</td><td>14</td><td>1456.5 m2</td><td>5405.65</td><td>08/12/2022</td><td>Ã‚Â good condition</td><td>POINT (5.099634 52.075368)</td></tr>
+<tr class="odd"><td>69</td><td>69</td><td>Industrieweg 193</td><td>warehouse</td><td>36</td><td>4433.7 m2</td><td>-1469.14</td><td>07-08-2025</td><td>Near station</td><td>POINT (5.181448 52.05664)</td></tr>
+<tr><td>70</td><td>62</td><td>Kerkstraat 221</td><td>SCHOOL</td><td>42</td><td>1254.0 ft2</td><td>3204.57</td><td></td><td>Renovated in 2019</td><td>POINT (5.128323 52.11598)</td></tr>
+<tr class="odd"><td>71</td><td>71</td><td>Molenweg 78</td><td>retail</td><td></td><td>1966.4 m2</td><td>18785.53</td><td>14-09-2017</td><td>Renovated in 2019</td><td>POINT (5.068251 52.127308)</td></tr>
+<tr><td>72</td><td>72</td><td>STATIONSPLEIN 27</td><td>Park</td><td>48</td><td>977.7 m2</td><td>15593.45</td><td>24.2.2020</td><td>Renovated in 2019</td><td>POINT (5.152996 52.099458)</td></tr>
+<tr class="odd"><td>73</td><td>73</td><td>Dorpsstraat 245</td><td>hospital</td><td>4</td><td>1615.6</td><td>14691.45</td><td>2021-02-26</td><td>Grond in slechte staat</td><td>POINT (5.135022 52.073391)</td></tr>
+<tr><td>74</td><td>74</td><td>Stationsplein 217</td><td>Warehouse</td><td>28</td><td>4883.1 m2</td><td>8053.46</td><td>08-08-2020</td><td>Renovated in 2019</td><td>POINT (5.0711 52.121249)</td></tr>
+<tr class="odd"><td>75</td><td>75</td><td>Industrieweg 5</td><td>school </td><td>25</td><td>11217.1 ft2</td><td>18668.59</td><td>2023-07-22</td><td>Renovated in 2019</td><td>POINT (5.103266 52.05501)</td></tr>
+<tr><td>76</td><td>76</td><td>  Molenweg 127  </td><td>warehouse</td><td>38</td><td>1049.3 m2</td><td>2297.67</td><td>19.10.2021</td><td>Grond in slechte staat</td><td>POINT (5.10575 52.087075)</td></tr>
+<tr class="odd"><td>77</td><td>77</td><td>INDUSTRIEWEG 68</td><td>hospital</td><td></td><td>216.2</td><td>17388.61</td><td>09-05-2022</td><td>NÃ¤he Bahnhof</td><td>POINT (5.10673 52.052202)</td></tr>
+<tr><td>78</td><td>51</td><td>Molenweg 190</td><td>Retail</td><td>46</td><td>4798.5 m2</td><td>11507.29</td><td>2022-09-22</td><td>NÃ¤he Bahnhof</td><td>POINT (5.191257 52.125293)</td></tr>
+<tr class="odd"><td>79</td><td>79</td><td>Kerkstraat 242</td><td>warehouse</td><td>-</td><td>326.1 m2</td><td>15221.54</td><td>10.10.2025</td><td>Renovated in 2019</td><td>POINT (5.106947 52.085311)</td></tr>
+<tr><td>80</td><td>80</td><td>Stationsplein 166</td><td>PARK</td><td>5</td><td>50301.9 ft2</td><td>17829.8</td><td>04-07-2016</td><td>Near station</td><td>POINT (5.099797 52.108885)</td></tr>
+<tr class="odd"><td>81</td><td>81</td><td>Dorpsstraat 59</td><td>retail</td><td>27</td><td>1271.4 m2</td><td>11634.31</td><td>08/09/2017</td><td>Near station</td><td>POINT (5.150242 52.066893)</td></tr>
+<tr><td>82</td><td>82</td><td>Industrieweg 175</td><td>HOSPITAL</td><td>16</td><td>4629.1 m2</td><td>6143.86</td><td>24-05-2018</td><td></td><td>POINT (5.104015 52.053244)</td></tr>
+<tr class="odd"><td>83</td><td>83</td><td>Parklaan 99</td><td>hospital</td><td>46</td><td>919.4 m2</td><td>16664.93</td><td>2018-05-25</td><td>Renovated in 2019</td><td>POINT (5.127934 52.117285)</td></tr>
+<tr><td>84</td><td>84</td><td>Parklaan 191</td><td>warehouse</td><td>32</td><td>497.1 m2</td><td>15378.12</td><td></td><td>Grond in slechte staat</td><td>POINT (5.116865 52.09125)</td></tr>
+<tr class="odd"><td>85</td><td>85</td><td>Kerkstraat 115</td><td>school</td><td>25</td><td>31244.4 ft2</td><td>6185.06</td><td></td><td>Grond in slechte staat</td><td>POINT (5.172573 52.052406)</td></tr>
+<tr><td>86</td><td>86</td><td>Molenweg 278</td><td>school </td><td>7</td><td>3599.6 m2</td><td>2899.46</td><td>09-02-2017</td><td>NÃ¤he Bahnhof</td><td>POINT (5.119308 52.081729)</td></tr>
+<tr class="odd"><td>87</td><td>87</td><td>Industrieweg 28</td><td>park</td><td>34</td><td>229.2</td><td>1513.33</td><td>06/27/2022</td><td>Near station</td><td>POINT (5.087393 52.083771)</td></tr>
+<tr><td>88</td><td>88</td><td>Industrieweg 140</td><td></td><td>2</td><td>1166.1 m2</td><td>8242.51</td><td>01/02/2016</td><td>Renovated in 2019</td><td>POINT (5.087587 52.091624)</td></tr>
+<tr class="odd"><td>89</td><td>89</td><td>Stationsplein 125</td><td>park </td><td>33</td><td>4512.0 m2</td><td>12009.84</td><td>17.3.2020</td><td>Grond in slechte staat</td><td>POINT (5.141493 52.095614)</td></tr>
+<tr><td>90</td><td>90</td><td>Molenweg 166</td><td>shool</td><td>31</td><td>4103.2 m2</td><td>7006.5</td><td>07/19/2016</td><td>Grond in slechte staat</td><td>POINT (5.082421 52.054553)</td></tr>
+<tr class="odd"><td>91</td><td>75</td><td>Molenweg 142</td><td>park</td><td>29</td><td>19406.2 ft2</td><td>10658.12</td><td>07/05/2021</td><td>Near station</td><td>POINT (5.188306 52.129648)</td></tr>
+<tr><td>92</td><td>92</td><td>Parklaan 235</td><td></td><td>32</td><td>2017.6</td><td>3417.85</td><td>20.10.2017</td><td>Grond in slechte staat</td><td>POINT (5.133303 52.08076)</td></tr>
+<tr class="odd"><td>93</td><td>93</td><td>  Kerkstraat 14  </td><td>retail </td><td>37</td><td>1916.1 m2</td><td>16521.94</td><td>2021-04-20</td><td>Ã‚Â good condition</td><td>POINT (5.130467 52.074993)</td></tr>
+<tr><td>94</td><td>94</td><td>Dorpsstraat 250</td><td>winkel</td><td>23</td><td>2292.7 m2</td><td>1831.25</td><td>2024-07-17</td><td></td><td>POINT (5.129521 52.115271)</td></tr>
+<tr class="odd"><td>95</td><td>95</td><td>Molenweg 212</td><td>Hospital</td><td>19</td><td>37295.8 ft2</td><td>19809.85</td><td>2020-09-06</td><td></td><td>POINT (5.13548 52.100505)</td></tr>
+<tr><td>96</td><td>96</td><td>Industrieweg 264</td><td>Retail</td><td></td><td>16760.5 ft2</td><td>11930.91</td><td>09/16/2025</td><td>Ã‚Â good condition</td><td>POINT (5.071803 52.091474)</td></tr>
+<tr class="odd"><td>97</td><td>97</td><td>Stationsplein 51</td><td>PARK</td><td>28</td><td>4042.7 m2</td><td>743.58</td><td>04/23/2021</td><td>Renovated in 2019</td><td>POINT (5.117476 52.080853)</td></tr>
+<tr><td>98</td><td>98</td><td>Dorpsstraat 35</td><td>retail</td><td>16</td><td>1153.4 m2</td><td>-11946.45</td><td>28.8.2020</td><td>Near station</td><td>POINT (5.112024 52.081888)</td></tr>
+<tr class="odd"><td>99</td><td>99</td><td>Kerkstraat 217</td><td>park</td><td>12</td><td>945.1 ft2</td><td>8222.52</td><td>28.7.2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.120052 52.077558)</td></tr>
+<tr><td>100</td><td>100</td><td>Parklaan 208</td><td>hospital</td><td>6</td><td>1021.7 m2</td><td>15855.5</td><td>04/26/2018</td><td>NÃ¤he Bahnhof</td><td>POINT (5.121393 52.066356)</td></tr>
+<tr class="odd"><td>101</td><td>101</td><td>Dorpsstraat 15</td><td>school</td><td>24</td><td>2696.6 m2</td><td>10448.78</td><td>09/22/2017</td><td>Grond in slechte staat</td><td>&nbsp;</td></tr>
+<tr><td>102</td><td>102</td><td>Parklaan 205</td><td>school</td><td>5</td><td>2831.9 m2</td><td>10257.13</td><td>02/10/2019</td><td>Ã‚Â good condition</td><td>POINT (5.182413 52.118902)</td></tr>
+<tr class="odd"><td>103</td><td>103</td><td>INDUSTRIEWEG 113</td><td>hospitaal</td><td>27</td><td>175.1 m2</td><td>9520.34</td><td>02/21/2018</td><td>Renovated in 2019</td><td>POINT (5.114605 52.110557)</td></tr>
+<tr><td>104</td><td>104</td><td>Industrieweg 25</td><td>park</td><td>15</td><td>2872.3 m2</td><td>5466.83</td><td>01/12/2017</td><td>Renovated in 2019</td><td>POINT (5.081521 52.123159)</td></tr>
+<tr class="odd"><td>105</td><td>105</td><td>Molenweg 220</td><td> park</td><td>34</td><td>495.2</td><td>8767.53</td><td>24-12-2023</td><td>NÃ¤he Bahnhof</td><td>POINT (5.078394 52.126184)</td></tr>
+<tr><td>106</td><td>106</td><td>Molenweg 4</td><td>WAREHOUSE</td><td>16</td><td>4819.9 m2</td><td>7270.97</td><td>5.3.2023</td><td>Near station</td><td>POINT (5.094906 52.120775)</td></tr>
+<tr class="odd"><td>107</td><td>107</td><td>Kerkstraat 31</td><td>Warehouse</td><td>43</td><td>816.2</td><td>16869.98</td><td>05/23/2016</td><td>Renovated in 2019</td><td>POINT (5.117203 52.059039)</td></tr>
+<tr><td>108</td><td>108</td><td>Dorpsstraat 251</td><td>retail</td><td></td><td>2369.1</td><td>9967.73</td><td>24-10-2020</td><td>Renovated in 2019</td><td>POINT (5.063645 52.072878)</td></tr>
+<tr class="odd"><td>109</td><td>109</td><td>Stationsplein 195</td><td></td><td></td><td>2006.6 m2</td><td>7673.81</td><td>03/22/2017</td><td>Grond in slechte staat</td><td>POINT (5.070451 52.123577)</td></tr>
+<tr><td>110</td><td>110</td><td>  Molenweg 84  </td><td>Hospital</td><td>46</td><td>2046.0 m2</td><td>4720.62</td><td>10-10-2025</td><td>Ã‚Â good condition</td><td>POINT (5.055991 52.08516)</td></tr>
+<tr class="odd"><td>111</td><td>111</td><td>Industrieweg 179</td><td> hospital</td><td>46</td><td>2135.0 m2</td><td>9054.52</td><td></td><td></td><td>POINT (5.119071 52.127704)</td></tr>
+<tr><td>112</td><td>112</td><td>Industrieweg 15</td><td>school</td><td>4</td><td>3627.7 m2</td><td>13339.5</td><td>08/12/2018</td><td>Near station</td><td>POINT (5.062781 52.102839)</td></tr>
+<tr class="odd"><td>113</td><td>113</td><td>Stationsplein 251</td><td>warehouse</td><td>17</td><td>615.6 m2</td><td>17854.87</td><td>2017-05-28</td><td></td><td>POINT (5.066953 52.091055)</td></tr>
+<tr><td>114</td><td>114</td><td>Dorpsstraat 279</td><td>park</td><td>33</td><td>2775.3 m2</td><td>15259.56</td><td>24.9.2017</td><td></td><td>POINT (5.063967 52.079869)</td></tr>
+<tr class="odd"><td>115</td><td>115</td><td>Stationsplein 87</td><td></td><td>30</td><td>1534.7 m2</td><td>8806.52</td><td>28-04-2025</td><td>Near station</td><td>POINT (5.173845 52.059818)</td></tr>
+<tr><td>116</td><td>116</td><td>Dorpsstraat 11</td><td>warehouse</td><td>several</td><td>543.2 m2</td><td>16158.91</td><td>04/22/2020</td><td>Renovated in 2019</td><td>POINT (5.123207 52.0559)</td></tr>
+<tr class="odd"><td>117</td><td>117</td><td>DORPSSTRAAT 257</td><td>school</td><td>10</td><td>2962.2 m2</td><td>19946.73</td><td>01/15/2016</td><td>Renovated in 2019</td><td>POINT (5.143063 52.101575)</td></tr>
+<tr><td>118</td><td>118</td><td>Parklaan 240</td><td>retail</td><td>40</td><td>2609.1 m2</td><td>10801.06</td><td>2019-01-20</td><td>Grond in slechte staat</td><td>POINT (5.100326 52.088675)</td></tr>
+<tr class="odd"><td>119</td><td>119</td><td>Dorpsstraat 293</td><td>School</td><td>25</td><td>1403.0 m2</td><td>5610.32</td><td>05-12-2016</td><td>Grond in slechte staat</td><td>POINT (5.085706 52.113736)</td></tr>
+<tr><td>120</td><td>120</td><td>Molenweg 179</td><td>park </td><td>23</td><td>4370.7 m2</td><td>7021.34</td><td>08/26/2024</td><td>Near station</td><td>POINT (5.116828 52.095498)</td></tr>
+<tr class="odd"><td>121</td><td>121</td><td>Dorpsstraat 183</td><td>school</td><td>37</td><td>2778.8</td><td>7139.11</td><td>10/03/2018</td><td>Near station</td><td>POINT (5.060162 52.088761)</td></tr>
+<tr><td>122</td><td>122</td><td>KERKSTRAAT 67</td><td>hospital</td><td>16</td><td>3536.8 m2</td><td>8291.68</td><td>2017-09-28</td><td></td><td>POINT (5.0705 52.065054)</td></tr>
+<tr class="odd"><td>123</td><td>123</td><td>Stationsplein 254</td><td>park</td><td>48</td><td>184.1 m2</td><td>12390.84</td><td>28-07-2016</td><td>Ã‚Â good condition</td><td>POINT (5.053861 52.075351)</td></tr>
+<tr><td>124</td><td>124</td><td>Industrieweg 295</td><td>hospitaal</td><td>unknown</td><td>8139.7 ft2</td><td>2252.43</td><td>2025-11-18</td><td>Grond in slechte staat</td><td>POINT (5.121634 52.052531)</td></tr>
+<tr class="odd"><td>125</td><td>125</td><td>Kerkstraat 15</td><td>warehouse</td><td>18</td><td>702.7 m2</td><td>9777.39</td><td>12.3.2019</td><td></td><td>POINT (5.133287 52.064546)</td></tr>
+<tr><td>126</td><td>126</td><td>  Stationsplein 14  </td><td>hospital</td><td>50</td><td>852.3 m2</td><td>15673.05</td><td>16.4.2021</td><td>Renovated in 2019</td><td>POINT (5.187048 52.103937)</td></tr>
+<tr class="odd"><td>127</td><td>127</td><td>Stationsplein 256</td><td>school</td><td>41</td><td>4308.7 m2</td><td>904.92</td><td>12.4.2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.190083 52.111536)</td></tr>
+<tr><td>128</td><td>128</td><td>Dorpsstraat 94</td><td>school</td><td>16</td><td>849.9 m2</td><td>12153.05</td><td>26-04-2021</td><td>Grond in slechte staat</td><td>POINT (5.170753 52.062154)</td></tr>
+<tr class="odd"><td>129</td><td>129</td><td>  Parklaan 8  </td><td>school</td><td>11</td><td>2349.2 m2</td><td>8576.93</td><td>2016-06-13</td><td>NÃ¤he Bahnhof</td><td>POINT (5.154764 52.10828)</td></tr>
+<tr><td>130</td><td>121</td><td>Kerkstraat 179</td><td>Hospital</td><td>28</td><td>62.7 m2</td><td>11038.55</td><td>4.9.2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.090946 52.064178)</td></tr>
+<tr class="odd"><td>131</td><td>131</td><td>Stationsplein 277</td><td>park</td><td>several</td><td>1372.7 m2</td><td>1307.45</td><td>12/11/2022</td><td>Ã‚Â good condition</td><td>POINT (5.182252 52.1143)</td></tr>
+<tr><td>132</td><td>132</td><td>Stationsplein 227</td><td>parc</td><td>25</td><td>53340.5 ft2</td><td>13436.82</td><td>2.12.2016</td><td></td><td>&nbsp;</td></tr>
+<tr class="odd"><td>133</td><td>133</td><td>Stationsplein 135</td><td>winkel</td><td>25</td><td>1808.3 m2</td><td>19530.67</td><td>2017-06-27</td><td>Near station</td><td>POINT (5.138424 52.095656)</td></tr>
+<tr><td>134</td><td>134</td><td>Dorpsstraat 63</td><td>park</td><td>24</td><td>1231.3 m2</td><td>16526.76</td><td>11/27/2016</td><td>Ã‚Â good condition</td><td>POINT (5.103497 52.114257)</td></tr>
+<tr class="odd"><td>135</td><td>135</td><td>Molenweg 190</td><td>retail</td><td>8</td><td>2274.1 m2</td><td>16066.49</td><td>22.3.2021</td><td>Grond in slechte staat</td><td>&nbsp;</td></tr>
+<tr><td>136</td><td>136</td><td>Stationsplein 23</td><td>WAREHOUSE</td><td>17</td><td>13423.7 ft2</td><td>2280.91</td><td>03/07/2022</td><td>Renovated in 2019</td><td>POINT (5.094287 52.082634)</td></tr>
+<tr class="odd"><td>137</td><td>137</td><td>  Parklaan 14  </td><td> hospital</td><td>46</td><td>2922.1 m2</td><td>4461.02</td><td>15.7.2022</td><td>Ã‚Â good condition</td><td>POINT (5.115418 52.129594)</td></tr>
+<tr><td>138</td><td>138</td><td>Kerkstraat 293</td><td> park</td><td></td><td>1200.5 m2</td><td>11062.47</td><td>11-07-2023</td><td>Renovated in 2019</td><td>POINT (5.082345 52.086342)</td></tr>
+<tr class="odd"><td>139</td><td>139</td><td>INDUSTRIEWEG 141</td><td>school</td><td>-</td><td>4225.9 m2</td><td>8435.52</td><td>11-06-2019</td><td>Ã‚Â good condition</td><td>POINT (5.178832 52.094455)</td></tr>
+<tr><td>140</td><td>140</td><td>Stationsplein 103</td><td>retail</td><td>28</td><td>4290.4 m2</td><td>4439.14</td><td>2023-08-12</td><td>Near station</td><td>POINT (5.09714 52.092646)</td></tr>
+<tr class="odd"><td>141</td><td>141</td><td>  Parklaan 64  </td><td></td><td>13</td><td>38398.1 ft2</td><td>12045.8</td><td>15-04-2019</td><td>Renovated in 2019</td><td>POINT (5.124572 52.051135)</td></tr>
+<tr><td>142</td><td>142</td><td>DORPSSTRAAT 218</td><td>shool</td><td>50</td><td>4593.4 m2</td><td>2466.82</td><td>07/02/2019</td><td>Near station</td><td>POINT (5.074022 52.085705)</td></tr>
+<tr class="odd"><td>143</td><td>143</td><td>Stationsplein 115</td><td>warehouse</td><td>17</td><td>17821.8 ft2</td><td>3462.01</td><td>13.1.2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.159236 52.084389)</td></tr>
+<tr><td>144</td><td>144</td><td>INDUSTRIEWEG 299</td><td>park </td><td>34</td><td>2655.4 m2</td><td>7285.0</td><td>04/03/2023</td><td>NÃ¤he Bahnhof</td><td>POINT (5.165166 52.111206)</td></tr>
+<tr class="odd"><td>145</td><td>145</td><td>Stationsplein 36</td><td></td><td>23</td><td>1012.2 m2</td><td>6350.47</td><td>04/16/2021</td><td>Near station</td><td>POINT (5.168198 52.097648)</td></tr>
+<tr><td>146</td><td>146</td><td>  DORPSSTRAAT 156  </td><td>parc</td><td>37</td><td>4194.1 m2</td><td>14688.67</td><td>22-02-2021</td><td>NÃ¤he Bahnhof</td><td>POINT (5.124419 52.092879)</td></tr>
+<tr class="odd"><td>147</td><td>147</td><td>Dorpsstraat 293</td><td>Retail</td><td>26</td><td>2798.7</td><td>18213.84</td><td>08-02-2016</td><td>Renovated in 2019</td><td>POINT (5.073049 52.071134)</td></tr>
+<tr><td>148</td><td>107</td><td>Kerkstraat 111</td><td>warehouse </td><td>14</td><td>1207.9 m2</td><td>15788.25</td><td>02/08/2025</td><td>Grond in slechte staat</td><td>POINT (5.171583 52.086943)</td></tr>
+<tr class="odd"><td>149</td><td>149</td><td>Kerkstraat 2</td><td> park</td><td>unknown</td><td>782.9 m2</td><td>3759.14</td><td>04/07/2019</td><td>Ã‚Â good condition</td><td>POINT (5.0995 52.055523)</td></tr>
+<tr><td>150</td><td>150</td><td>Parklaan 239</td><td>Park</td><td>46</td><td>4858.2 m2</td><td>16165.21</td><td>03/16/2020</td><td></td><td>POINT (5.107874 52.101181)</td></tr>
+<tr class="odd"><td>151</td><td>151</td><td>Dorpsstraat 176</td><td></td><td>49</td><td>4199.9 m2</td><td>4361.26</td><td>16.10.2016</td><td>Renovated in 2019</td><td>POINT (5.15079 52.113344)</td></tr>
+<tr><td>152</td><td>152</td><td>DORPSSTRAAT 17</td><td></td><td></td><td>6431.4 ft2</td><td>8663.82</td><td>11-09-2019</td><td>Grond in slechte staat</td><td>POINT (5.183433 52.082596)</td></tr>
+<tr class="odd"><td>153</td><td>153</td><td>Industrieweg 97</td><td>School</td><td>22</td><td>4790.6 m2</td><td>4871.91</td><td>05/13/2023</td><td>Ã‚Â good condition</td><td>POINT (5.050053 52.064028)</td></tr>
+<tr><td>154</td><td>154</td><td>Stationsplein 228</td><td>retail</td><td>36</td><td>39676.8 ft2</td><td>13489.13</td><td>09-11-2022</td><td>Grond in slechte staat</td><td>POINT (5.144789 52.080069)</td></tr>
+<tr class="odd"><td>155</td><td>155</td><td>  Stationsplein 248  </td><td>park</td><td>4</td><td>47170.6 ft2</td><td>2821.56</td><td></td><td>Grond in slechte staat</td><td>POINT (5.138132 52.096141)</td></tr>
+<tr><td>156</td><td>107</td><td>Parklaan 185</td><td>school</td><td>19</td><td>3875.7 m2</td><td>11190.08</td><td>22.11.2022</td><td>NÃ¤he Bahnhof</td><td>POINT (5.124364 52.053866)</td></tr>
+<tr class="odd"><td>157</td><td>157</td><td>Dorpsstraat 102</td><td>School</td><td>20</td><td>4542.6 m2</td><td>19443.84</td><td>03/23/2020</td><td>Ã‚Â good condition</td><td>POINT (5.089032 52.081518)</td></tr>
+<tr><td>158</td><td>158</td><td>Stationsplein 201</td><td>RETAIL</td><td>27</td><td>34484.3 ft2</td><td>6637.75</td><td>16.11.2024</td><td></td><td>POINT (5.177712 52.059688)</td></tr>
+<tr class="odd"><td>159</td><td>159</td><td>Molenweg 61</td><td>parc</td><td>16</td><td>47740.0 ft2</td><td>2379.88</td><td>12/27/2017</td><td>Near station</td><td>POINT (5.109997 52.089985)</td></tr>
+<tr><td>160</td><td>160</td><td>Industrieweg 141</td><td>school</td><td>19</td><td>711.1 m2</td><td>1786.02</td><td>28.10.2019</td><td>NÃ¤he Bahnhof</td><td>POINT (5.150733 52.110329)</td></tr>
+<tr class="odd"><td>161</td><td>161</td><td>  Molenweg 159  </td><td>hospital</td><td>19</td><td>699.8 m2</td><td>14223.65</td><td>10/03/2025</td><td>Renovated in 2019</td><td>POINT (5.154915 52.055774)</td></tr>
+<tr><td>162</td><td>162</td><td>Stationsplein 170</td><td> hospital</td><td>4</td><td>4887.5 m2</td><td>12115.57</td><td>2023-02-15</td><td></td><td>POINT (5.081347 52.117152)</td></tr>
+<tr class="odd"><td>163</td><td>163</td><td>Kerkstraat 191</td><td>warehouse</td><td>18</td><td>2148.4 m2</td><td>12785.2</td><td>13.7.2024</td><td>Grond in slechte staat</td><td>POINT (5.121682 52.060699)</td></tr>
+<tr><td>164</td><td>164</td><td>Parklaan 152</td><td>warehouse </td><td>49</td><td>1011.3 m2</td><td>10566.08</td><td>12/23/2019</td><td>Near station</td><td>POINT (5.157927 52.055018)</td></tr>
+<tr class="odd"><td>165</td><td>165</td><td>Kerkstraat 233</td><td>park</td><td>36</td><td>1809.1 m2</td><td>12828.45</td><td>12/02/2018</td><td>NÃ¤he Bahnhof</td><td>POINT (5.182639 52.088882)</td></tr>
+<tr><td>166</td><td>166</td><td>Parklaan 197</td><td>hospital</td><td>7</td><td>2665.1 m2</td><td>8083.68</td><td>7.12.2020</td><td>Ã‚Â good condition</td><td>POINT (5.051931 52.067122)</td></tr>
+<tr class="odd"><td>167</td><td>167</td><td>  Dorpsstraat 54  </td><td>Retail</td><td>n/a</td><td>4299.7 m2</td><td>11411.89</td><td>2019-01-07</td><td>NÃ¤he Bahnhof</td><td>POINT (5.135809 52.123638)</td></tr>
+<tr><td>168</td><td>168</td><td>  Dorpsstraat 196  </td><td>retail</td><td>11</td><td>2031.1 m2</td><td>14417.88</td><td>2025-08-23</td><td>NÃ¤he Bahnhof</td><td>&nbsp;</td></tr>
+<tr class="odd"><td>169</td><td>169</td><td>  Molenweg 240  </td><td>school</td><td>n/a</td><td>4544.6 m2</td><td>518.44</td><td>8.11.2016</td><td>Renovated in 2019</td><td>POINT (5.18235 52.057726)</td></tr>
+<tr><td>170</td><td>170</td><td>Parklaan 280</td><td>warehouse </td><td>1</td><td>407.1 m2</td><td>13140.98</td><td>20-10-2024</td><td>Near station</td><td>&nbsp;</td></tr>
+<tr class="odd"><td>171</td><td>171</td><td>Kerkstraat 46</td><td>parc</td><td>42</td><td>3691.0 m2</td><td>19674.47</td><td>17-06-2017</td><td>Grond in slechte staat</td><td>POINT (5.140964 52.128286)</td></tr>
+<tr><td>172</td><td>172</td><td>Parklaan 16</td><td>Park</td><td>34</td><td>1957.6</td><td>18513.95</td><td>25-12-2017</td><td>Ã‚Â good condition</td><td>POINT (5.058222 52.099498)</td></tr>
+<tr class="odd"><td>173</td><td>173</td><td>Kerkstraat 212</td><td>hospital</td><td>21</td><td>1942.3 m2</td><td>3677.23</td><td>10/16/2021</td><td></td><td>POINT (5.188136 52.076297)</td></tr>
+<tr><td>174</td><td>174</td><td>Dorpsstraat 266</td><td>school</td><td>21</td><td>2153.8 m2</td><td>1753.0</td><td>2016-09-07</td><td>Renovated in 2019</td><td>POINT (5.082709 52.110406)</td></tr>
+<tr class="odd"><td>175</td><td>175</td><td>Parklaan 73</td><td>Hospital</td><td>44</td><td>873.8</td><td>6043.97</td><td>02/01/2019</td><td>Near station</td><td>POINT (5.061691 52.108368)</td></tr>
+<tr><td>176</td><td>176</td><td>Parklaan 49</td><td>PARK</td><td>33</td><td>3453.3 m2</td><td>15503.98</td><td>2022-07-10</td><td>Grond in slechte staat</td><td>POINT (5.054605 52.116301)</td></tr>
+<tr class="odd"><td>177</td><td>177</td><td>Kerkstraat 30</td><td>school</td><td></td><td>10658.4 ft2</td><td>3581.69</td><td>22-05-2018</td><td></td><td>POINT (5.059308 52.073671)</td></tr>
+<tr><td>178</td><td>178</td><td>Kerkstraat 115</td><td>school</td><td>24</td><td>3950.5 m2</td><td>7641.49</td><td>8.3.2020</td><td>Ã‚Â good condition</td><td>POINT (5.086131 52.12143)</td></tr>
+<tr class="odd"><td>179</td><td>179</td><td>  Dorpsstraat 226  </td><td> park</td><td></td><td>2219.8 m2</td><td>9469.09</td><td>2023-08-04</td><td>Grond in slechte staat</td><td>POINT (5.120375 52.124927)</td></tr>
+<tr><td>180</td><td>180</td><td>Stationsplein 240</td><td> park</td><td>25</td><td>594.7</td><td>10734.39</td><td>28-06-2019</td><td>Near station</td><td>POINT (5.17101 52.10048)</td></tr>
+<tr class="odd"><td>181</td><td>181</td><td>Parklaan 72</td><td>hospital</td><td>31</td><td>1323.7 m2</td><td>12737.19</td><td>2016-08-21</td><td>Grond in slechte staat</td><td>POINT (5.178598 52.079418)</td></tr>
+<tr><td>182</td><td>182</td><td>DORPSSTRAAT 13</td><td></td><td>29</td><td>1124.0 m2</td><td>9060.8</td><td>2025-06-24</td><td>Ã‚Â good condition</td><td>POINT (5.121558 52.090932)</td></tr>
+<tr class="odd"><td>183</td><td>183</td><td>Parklaan 12</td><td>retail</td><td>31</td><td>1049.4</td><td>9403.28</td><td>2022-01-11</td><td>NÃ¤he Bahnhof</td><td>POINT (5.050024 52.098603)</td></tr>
+<tr><td>184</td><td>184</td><td>Industrieweg 232</td><td>winkel</td><td>27</td><td>788.3 m2</td><td>10683.02</td><td>2.3.2019</td><td></td><td>POINT (5.179033 52.126555)</td></tr>
+<tr class="odd"><td>185</td><td>185</td><td>Dorpsstraat 272</td><td>winkel</td><td></td><td>1483.7 m2</td><td>19354.42</td><td>17-07-2020</td><td></td><td>POINT (5.078903 52.056082)</td></tr>
+<tr><td>186</td><td>186</td><td>Parklaan 93</td><td>warehouse </td><td>17</td><td>3403.1 m2</td><td>14954.97</td><td>22.6.2016</td><td>NÃ¤he Bahnhof</td><td>POINT (5.063343 52.127677)</td></tr>
+<tr class="odd"><td>187</td><td>187</td><td>Industrieweg 216</td><td>retail</td><td>24</td><td>1931.4 m2</td><td>7615.69</td><td>2016-02-09</td><td>Ã‚Â good condition</td><td>POINT (5.136544 52.078454)</td></tr>
+<tr><td>188</td><td>188</td><td>STATIONSPLEIN 131</td><td>winkel</td><td>26</td><td>1880.0</td><td>15452.17</td><td>2025-04-21</td><td>Ã‚Â good condition</td><td>POINT (5.181269 52.097104)</td></tr>
+<tr class="odd"><td>189</td><td>189</td><td>Kerkstraat 46</td><td>park</td><td></td><td>43078.2 ft2</td><td>2172.72</td><td></td><td>Grond in slechte staat</td><td>POINT (5.10234 52.073342)</td></tr>
+<tr><td>190</td><td>190</td><td>Parklaan 217</td><td>Hospital</td><td>4</td><td>3498.3 m2</td><td>15938.92</td><td>16-03-2019</td><td>NÃ¤he Bahnhof</td><td>POINT (5.060823 52.087796)</td></tr>
+<tr class="odd"><td>191</td><td>191</td><td>Stationsplein 257</td><td>school </td><td>6</td><td>4133.0 m2</td><td>8991700.0</td><td>19.4.2017</td><td>Near station</td><td>POINT (5.084318 52.051881)</td></tr>
+<tr><td>192</td><td>192</td><td>  Parklaan 157  </td><td>school</td><td>14</td><td>4931.9</td><td>18022.06</td><td>15.6.2020</td><td>Renovated in 2019</td><td>POINT (5.098755 52.068908)</td></tr>
+<tr class="odd"><td>193</td><td>193</td><td>Parklaan 263</td><td>SCHOOL</td><td>24</td><td>3444.6 m2</td><td>6560.0</td><td>20.7.2022</td><td>Ã‚Â good condition</td><td>POINT (5.11276 52.106413)</td></tr>
+<tr><td>194</td><td>194</td><td>PARKLAAN 175</td><td>hospital</td><td>18</td><td>7627.3 ft2</td><td>18896.44</td><td>10/22/2016</td><td>Ã‚Â good condition</td><td>POINT (5.157381 52.108879)</td></tr>
+<tr class="odd"><td>195</td><td>181</td><td>Parklaan 198</td><td>School</td><td>27</td><td>887.1 m2</td><td>15416.76</td><td>04-04-2023</td><td></td><td>POINT (5.163814 52.081456)</td></tr>
+<tr><td>196</td><td>196</td><td>Parklaan 175</td><td>school</td><td>33</td><td>1727.3 m2</td><td>5475.57</td><td>10/05/2021</td><td>Renovated in 2019</td><td>POINT (5.179459 52.095991)</td></tr>
+<tr class="odd"><td>197</td><td>69</td><td>Parklaan 27</td><td>Warehouse</td><td>18</td><td>4750.6 m2</td><td>12547.68</td><td>2022-01-08</td><td>NÃ¤he Bahnhof</td><td>POINT (5.087983 52.102475)</td></tr>
+<tr><td>198</td><td>198</td><td>Dorpsstraat 237</td><td>hospitaal</td><td>unknown</td><td>45714.3 ft2</td><td>3212.22</td><td>22.9.2016</td><td>NÃ¤he Bahnhof</td><td>POINT (5.104135 52.055121)</td></tr>
+<tr class="odd"><td>199</td><td>199</td><td>Stationsplein 160</td><td></td><td>32</td><td>3718.5 m2</td><td>9510.33</td><td>13.5.2025</td><td>Renovated in 2019</td><td>POINT (5.199666 52.121681)</td></tr>
+<tr><td>200</td><td>200</td><td>Molenweg 269</td><td>RETAIL</td><td>43</td><td>3494.7 m2</td><td>18329.38</td><td>14.1.2018</td><td>Near station</td><td>POINT (5.083349 52.109585)</td></tr>
+</table></body></html>

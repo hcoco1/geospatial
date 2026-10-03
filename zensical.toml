@@ -33,8 +33,17 @@ nav = [
 
 ]
 
-# extra_css = ["stylesheets/extra.css"]
-# extra_javascript = ["javascripts/extra.js"]
+extra_css = [
+  "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+  "https://cdn.jsdelivr.net/npm/leaflet-search@4.0.0/dist/leaflet-search.min.css",
+  "stylesheets/leaflet.css",
+]
+
+extra_javascript = [
+  "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+  "https://cdn.jsdelivr.net/npm/leaflet-search@4.0.0/dist/leaflet-search.min.js",
+  "javascripts/leaflet-map.js",
+]
 [project.extra]
 generator = false
 

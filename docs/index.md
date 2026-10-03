@@ -1,8 +1,20 @@
-
 # GIS & Geospatial Data Portfolio
 
 **Geological engineer transitioning into GIS — demonstrated capability in spatial data inspection, quality assessment, and controlled PostGIS import.**
 
+---
+
+# Data sourcing & inspection
+
+
+
+=== "Map"
+
+    <div id="site-search"></div>
+
+    <div id="sites-map"></div>
+
+   
 ---
 
 ## QGIS Dashboards
@@ -11,17 +23,35 @@ A quick look at the evidence behind the two demonstrated competencies.
 
 <div class="grid cards" markdown>
 
--   ![Data sourcing & inspection dashboard](/Technical Evidence/01 — Data sourcing & inspection/additional/dashboard_QGIS.png)
+-   ![Data sourcing & inspection](/Technical Evidence/01 — Data sourcing & inspection/additional/dashboard_QGIS.png)
 
-    __01 — Data sourcing & inspection dashboard__
+    **__01 — Data sourcing & inspection__**
 
     [:fontawesome-solid-chart-column: View evidence](Technical Evidence/01 — Data sourcing & inspection/index.md) · [Full-resolution PDF](/Technical Evidence/01 — Data sourcing & inspection/additional/dashboard_QGIS.pdf "Download!")
 
--   ![Data cleaning dashboard](/Technical Evidence/02 — Data cleaning/additional/dashboard_cleaned.png)
+-   ![Data cleaning](/Technical Evidence/02 — Data cleaning/additional/dashboard_cleaned.png)
 
-    __02 — Data cleaning dashboard__
+    **__02 — Data cleaning__**
 
     [:fontawesome-solid-chart-column: View evidence](Technical Evidence/02 — Data cleaning/index.md) · [Full-resolution PDF](/Technical Evidence/02 — Data cleaning/additional/dashboard_cleaned.pdf "Download!")
+
+</div>
+
+---
+
+## Datasets
+
+The same 200 site records before and after cleaning, as browsable tables.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-table: [**__Raw data__**](data/sites_nl_dirty_202610031519.html){ target="_blank" rel="noopener" }
+
+    Source layer exactly as received, with its inconsistencies left intact.
+
+-   :fontawesome-solid-table-list: [**__Processed data__**](data/sites_nl_clean_202610031518.html){ target="_blank" rel="noopener" }
+
+    Cleaned layer with standardised values and quality flags.
 
 </div>
 
@@ -39,8 +69,9 @@ This portfolio is organised around 13 core GIS competencies. The following are c
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-database: [__01 — Data sourcing & inspection__](Competencies/01%20—%20Data%20sourcing%20&%20inspection/)
-- :fontawesome-solid-database: [__02 — Data cleaning__](Competencies/02 — Data cleaning/index.md)
+- :fontawesome-solid-database: [**__01 — Data sourcing & inspection__**](Competencies/01%20—%20Data%20sourcing%20&%20inspection/)
+
+- :fontawesome-solid-database: [**__02 — Data cleaning__**](Competencies/02 — Data cleaning/index.md)
 
 </div>
 
@@ -54,11 +85,10 @@ Technical evidence lives in a separate section from the professional-facing comp
 
 It includes technical procedures, commands, SQL, GIS workflows, outputs, maps, screenshots, database results, and supporting HTML relevant to each competency.
 
-
-
 ## Portfolio status
 
 !!! warning ""
-    This is a **progressive competency portfolio**.
+
+    This is a **__progressive competency portfolio__**.
 
 New competency pages are published as the supporting work is completed and verified. The portfolio reflects the capabilities demonstrated by the evidence available at its current stage.
