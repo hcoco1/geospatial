@@ -2,11 +2,6 @@
 
 ## What this portfolio is
 
-This portfolio documents my development as a GIS professional through practical evidence.
-
-It shows:
-
-> **What I know → what I can do → how I demonstrated it → how I verified it → what the evidence supports.**
 
 The portfolio is organised around 13 core GIS competencies. Each competency covers a practical area of GIS work and explains what the available evidence shows I can do.
 

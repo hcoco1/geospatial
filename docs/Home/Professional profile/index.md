@@ -2,7 +2,7 @@
 
 ## Ivan Arias
 
-Email: [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) · Full CV: [resume.hcoco1.com](https://resume.hcoco1.com/)
+Email: [arias.ivan@gmail.com](mailto:arias.ivan@gmail.com) · Full CV: [About Ivan](https://www.hcoco1.com/about/)
 
 I'm a geological engineer transitioning into GIS, currently building demonstrated capability in spatial data handling (see Competency overview). Geospatial software development is a longer-term direction, not yet shown in this portfolio.
 

@@ -1,21 +1,39 @@
 # GIS & Geospatial Data Portfolio
 
-**Geological engineer transitioning into GIS — demonstrated capability in spatial data inspection, quality assessment, and controlled PostGIS import.**
+---
+This portfolio documents my development as a GIS professional through practical evidence.
+
+It shows:
+
+> **What I know → what I can do → how I demonstrated it → how I verified it → what the evidence supports.**
+
+I'm targeting entry-level and junior GIS roles: GIS Technician, GIS Analyst, and Geospatial Data roles. [View my professional profile](Home/Professional%20profile/).
+
+## Datasets
+
+The same 200 site records before and after cleaning, as browsable tables.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-table: [**__Raw data__**](data/sites_nl_dirty_202610031519.html){ target="_blank" rel="noopener" }
+
+    Source layer exactly as received, with its inconsistencies left intact.
+
+-   :fontawesome-solid-table-list: [**__Processed data__**](data/sites_nl_clean_202610031518.html){ target="_blank" rel="noopener" }
+
+    Cleaned layer with standardised values and quality flags.
+
+</div>
+
+## Web Map
+
+<div id="site-search"></div>
 
 ---
 
-# Data sourcing & inspection
+<div id="sites-map"></div>
 
 
-
-=== "Map"
-
-    <div id="site-search"></div>
-
-    <div id="sites-map"></div>
-
-   
----
 
 ## QGIS Dashboards
 
@@ -37,31 +55,13 @@ A quick look at the evidence behind the two demonstrated competencies.
 
 </div>
 
----
 
-## Datasets
-
-The same 200 site records before and after cleaning, as browsable tables.
-
-<div class="grid cards" markdown>
-
--   :fontawesome-solid-table: [**__Raw data__**](data/sites_nl_dirty_202610031519.html){ target="_blank" rel="noopener" }
-
-    Source layer exactly as received, with its inconsistencies left intact.
-
--   :fontawesome-solid-table-list: [**__Processed data__**](data/sites_nl_clean_202610031518.html){ target="_blank" rel="noopener" }
-
-    Cleaned layer with standardised values and quality flags.
-
-</div>
 
 ---
 
-## About this portfolio
 
-This portfolio documents my development as a GIS professional through practical, evidence-based work — what I can do, how I did it, and how I verified it. [Read the full approach](Home/About/).
 
-I'm targeting entry-level and junior GIS roles: GIS Technician, GIS Analyst, and Geospatial Data roles. [View my professional profile](Home/Professional%20profile/).
+
 
 ## Competencies
 
