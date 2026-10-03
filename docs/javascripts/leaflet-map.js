@@ -7,11 +7,11 @@ document$.subscribe(function () {
   const map = L.map("sites-map");
 
   L.tileLayer(
-    "https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}.png",
+    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     {
-      maxZoom: 20,
+      maxZoom: 19,
       attribution:
-        '&copy; <a href="https://stadiamaps.com/attribution/">Stadia Maps</a> ' 
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }
   ).addTo(map);
 
